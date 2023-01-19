@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-theme                    : metadata
+theme                    : minima
 locale                   : "en-US"
 title                    : "Rui Fang / Site Title"
 title_separator          : "-"
