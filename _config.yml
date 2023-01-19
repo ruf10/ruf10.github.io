@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-theme                    : minima
+theme                    : metadata
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name      "     Rui Fang"
+name                     : &name      "Rui Fang"
 description              : &description "personal description"
 url                      : https://ruf10.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
