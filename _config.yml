@@ -8,7 +8,7 @@
 # Site Settings
 theme                    : minima
 locale                   : "en-US"
-title                    : "Rui Fang"
+title                    : "Rui Fang/Home"
 title_separator          : "-"
 name                     : &name "Rui Fang"
 description              : &description "personal description"
