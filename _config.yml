@@ -10,7 +10,7 @@ theme                    : minima
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "    Rui Fang"
+name                     : &name      "Rui Fang"
 description              : &description "personal description"
 url                      : https://ruf10.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Rui Fang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD student in Mathematics"
+  location         : "4200 Fifth Ave, Pittsburgh, PA 15260"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
