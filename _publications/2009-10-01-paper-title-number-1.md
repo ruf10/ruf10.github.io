@@ -1,7 +1,7 @@
 ---
 title: "A deep learning approch to vertexing"
 collection: publications
-permalink: /publication/A deep learning approch to vertexing
+permalink: /publication/2020-04-A deep learning approch to vertexing
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-04
 venue: 'Journal 1'
