@@ -13,7 +13,6 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "What I do for fun: Ballroom Dance"
+  - title: "Ballroom Dance"
     url: /ballroomdance/
-  - title: "Guide"
-    url: /markdown/
+
