@@ -7,7 +7,7 @@ main:
   - title: "Research"
     url: /researchprojects/
     
-  -title: "Teaching"
+  - title: "Teaching"
     url: /teaching/
     
   - title: "Publications"
