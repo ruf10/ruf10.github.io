@@ -3,7 +3,8 @@ main:
 
   - title: "Skills"
     url: /skills/
-  - title: "Research projects"
+    
+  - title: "Research Projects"
     url: /researchprojects/
     
   - title: "Publications"
@@ -12,5 +13,7 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "What I do for fun: Ballroom Dance"
+    url: /ballroomdance/
   - title: "Guide"
     url: /markdown/
