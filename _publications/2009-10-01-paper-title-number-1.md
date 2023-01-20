@@ -1,11 +1,9 @@
 ---
 title: "A deep learning approch to vertexing"
 collection: publications
-permalink: /publication/2020-04-A deep learning approch to vertexing
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-04
 venue: 'Journal of Physics: Conference Series'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Rui Fang et al 2020 J. Phys.: Conf. Ser. 1525 012079.'
 ---
 [Download paper here](
