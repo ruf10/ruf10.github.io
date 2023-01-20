@@ -1,4 +1,2 @@
 See ballroom friends from Carnegie mellon university
-#![OSB_group_picture](https://user-images.githubusercontent.com/66021647/213742375-f00a8adf-21dd-4c02-a0f2-0a67108efaa0.JPG |width=100)
-
-
+<img src="https://user-images.githubusercontent.com/66021647/213742375-f00a8adf-21dd-4c02-a0f2-0a67108efaa0.JPG" width="100" height="100">
