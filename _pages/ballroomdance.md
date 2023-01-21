@@ -12,7 +12,7 @@ Naturally, my colleagues and I started hanging out for fun things outside school
 <br />
 
 ***I will never forget my first Salsa dancing social at a winter night***. I stepped onto the dancing floor from the outside, I was excited but more nervous. My math friend said hi to me, and invited me to dance with him. Listening to the salsa music, and feeling the enthusiasm from the people out there, I was warmed up and started enjoying the music and dancing with music. <br />
-Since then, I join the Salsa Dancing Club at the Carnegie Mellon University regularly, I learened Salsa dance basics, other fun moves, and also Bachata dance, and go to social dance to "show off" and pracice. I love the dancing with people, I feel that I was bron to be a dancer.
+Since then, I join the Salsa Dancing Club at the Carnegie Mellon University regularly, I learened Salsa dance basics, other fun moves, and also Bachata dance, and go to social dance to "show off" and pracice. **I love the dancing with people, I feel that I was born to be a dancer**.
 <br />
 
 Last summer, I joined the **Ballroom Dance Club at the Carnegie Mellon University**. For the people that are not familar with ballroom, I get to learn Latin Dances such as light and bubbly Cha-cha, sexy Rumba, ligthhearted and cheery Samba, energitic Jive, and arrogant and passionate Paso Doble. I also love Standard Dances which is very elegant and classical, Waltz, Quickstep, Foxtrot and Tango and Viennese Waltz. 
