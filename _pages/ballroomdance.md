@@ -19,7 +19,7 @@ Last summer, I joined the **Ballroom Dance Club at the Carnegie Mellon Universit
 
 ***I go for ballroom competitions. The below picture was taken in November 2022 at Ohio Star Ball collegiate ballroom compettion which is well-known, and has a history over 40 years. I placed the 2nd place in International Latin Bronze level Cha-cha and Rumba, 3rd place in International Standard Bronze level Waltz and Quickstep.*** I loved travelling with ballroom friends and we cheer for each other and support each other, and try our best to bring the honor to our team!
 
-**If you love my dacne story and inspired by me, please join us for ballroom dance. We meet on Monday and Wednesday evenings in Pittsburgh! Email me for more info!**
+**If you love my dacne story and if you are inspired by me, please join us for ballroom dance. We meet on Monday and Wednesday evenings in Pittsburgh! Email me for more info!**
 <br />
 
 **ATTENTION!!!**<br />
