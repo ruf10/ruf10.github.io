@@ -6,9 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
-<img align="left" height="10" src="https://user-images.githubusercontent.com/66021647/213766328-7201dcc9-ed4d-410e-a7f1-3d75c02b26f4.JPG" >
+<img align="left" height="50" src="https://user-images.githubusercontent.com/66021647/213766328-7201dcc9-ed4d-410e-a7f1-3d75c02b26f4.JPG" >
+
 See ballroom friends from Carnegie mellon university
-<br clear="left"/>
-<img align="left" height="10"  alt="sam" src="https://user-images.githubusercontent.com/66021647/213829295-806c6a71-7882-46a6-894c-18dec918862a.png">
-<img align="center" height="10" alt="Owen" src="https://user-images.githubusercontent.com/66021647/213821328-0e1102de-b9ee-48a8-b369-960bd7aac6c0.png">
+
+<img align="left" height="50"  alt="sam" src="https://user-images.githubusercontent.com/66021647/213829295-806c6a71-7882-46a6-894c-18dec918862a.png">
+
+<img align="center" height="50" alt="Owen" src="https://user-images.githubusercontent.com/66021647/213821328-0e1102de-b9ee-48a8-b369-960bd7aac6c0.png">
 
