@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * PhD. in Mathematics, University of Pittsburgh, Pittsburgh, PA, USA, 2019 - Present 
-* Dual B.S. in Mathematics, University of Cincinnati, Cincinnati, OH, USA with Full-tuition scholarship, and Capital Normal University, Beijing, China, 2015 - 2019 
+* Dual B.S. in Mathematics, University of Cincinnati, Cincinnati, OH, USA **with Full-tuition scholarship**, and Capital Normal University, Beijing, China, 2015 - 2019 
 
 
 Work experience
