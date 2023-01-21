@@ -14,6 +14,6 @@ I will never forget my first Salsa dancing social at a winter night. I stepped o
 Since then, I join the Salsa Dancing Club at the Carnegie Mellon University regularly, I learened Salsa dance basics, other fun moves, and also Bachata dance, and go to social dance to "show off" and pracice. I love the dancing with people, I feel that I was bron to be a dancer.
 <br />
 
-Last summer, I joined the Ballroom Dance Club at the Carnegie Mellon University. For the people that are not familar with ballroom, I get to learn Latin Dances such as light and bubbly Cha-cha, sexy Rumba, ligthhearted and cheery Samba, energitic Jive, and arrogant and passionate Paso Doble. I also love Standard Dances which is very elegant, Waltz, Quickstep, Foxtrot and Tango and Viennese Waltz. 
+Last summer, I joined the Ballroom Dance Club at the Carnegie Mellon University. For the people that are not familar with ballroom, I get to learn Latin Dances such as light and bubbly Cha-cha, sexy Rumba, ligthhearted and cheery Samba, energitic Jive, and arrogant and passionate Paso Doble. I also love Standard Dances which is very elegant and classic, Waltz, Quickstep, Foxtrot and Tango and Viennese Waltz. 
 
 <img width="935" alt="sam_owen_group_osb" src="https://user-images.githubusercontent.com/66021647/213876262-f6f6a912-2599-4051-9569-02bcf7891fc8.png">
