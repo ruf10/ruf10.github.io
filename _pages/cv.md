@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD. in Mathematics, University of Pittsburgh, Pittsburgh, PA, USA, 2019 - Present 
+* Dual B.S. in Mathematics, University of Cincinnati, Cincinnati, OH, USA with Full-tuition scholarship, and Capital Normal University, Beijing, China, 2015 - 2019 
+
 
 Work experience
 ======
