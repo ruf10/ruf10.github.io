@@ -5,7 +5,7 @@ main:
     url: /skills/
     
   - title: "Research"
-    url: /researchprojects/
+    url: /research/
     
   - title: "Teaching"
     url: /teaching/
