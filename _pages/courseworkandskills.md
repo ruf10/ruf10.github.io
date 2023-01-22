@@ -6,10 +6,10 @@ author_profile: true
 ---
 {% include base_path %}
 ## Coursework:
-### Numerical Analysis and Scientific Computing:
+### Numerical Analysis and Scientific Computing:<br />
 ### Prof. William Layton: 
- * Math 2604 Advanced Scientific Computing 4
-#### Math 2070 Numerical Method in Scientific Computing 1
+* Math 2604 Advanced Scientific Computing 4
+* Math 2070 Numerical Method in Scientific Computing 1
 ### Prof. Ivan Yotov:
 * Math 3071 Numerical Solution Partial Differential Equations (finite difference and finite element methods.
 Accuracy, stability, and efficiency of the algorithms)
