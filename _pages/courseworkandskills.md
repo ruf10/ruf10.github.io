@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Coursework"
+title: "Research Relevant Courses and Skills"
 permalink: /courseworkandskills/
 author_profile: true
 ---
