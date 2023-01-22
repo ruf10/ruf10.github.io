@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Coursework and Skills"
+#title: "Coursework"
 permalink: /courseworkandskills/
 author_profile: true
 ---
 {% include base_path %}
-Coursework:
-=
 ## Numerical Analysis and Scientific Computing:
 * Prof. William Layton: 
     * Math 2604 Advanced Scientific Computing 4
