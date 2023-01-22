@@ -23,7 +23,7 @@ Accuracy, stability, and efficiency of the algorithms)
 * CMU ML(Carnegie Mellon University Machine learning department) 10601 Introduction to Machine Learning <br />
 * CMU ML 10703 Deep Reinforcement Learning and Control Theory <br />
 * CMU ML 10708 Probabilistic Graphic Models <br />
-* Data Analysis 
+* INFSCI 0510 Data Analysis 
 * Coursera Neural Networks and Deep Learning 
 ### General Math:
 * Matrices and Linear algebra operators (Prof. Huiqiang Jiang)
