@@ -22,8 +22,8 @@ author_profile: true
 * CMU(Carnegie Mellon University) ML 10601 Introduction to Machine Learning 
 * CMU ML 10703 Deep Reinforcement Learning and Control Theory 
 * CMU ML 10708 Probabilistic Graphic Models
-* INFSCI 0510 Data Analysis 
-* Coursera Neural Networks and Deep Learning 
+* INFSCI 0510 Data Analysis (Undergrad)
+* Neural Networks and Deep Learning (Coursera)
 
 ## General Math:
 * Matrices and Linear algebra operators (Prof. Huiqiang Jiang)
