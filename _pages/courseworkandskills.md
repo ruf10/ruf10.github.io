@@ -29,4 +29,3 @@ Accuracy, stability, and efficiency of the algorithms)
 * Matrices and Linear algebra operators (Prof. Huiqiang Jiang)
 * Analysis 1 (Prof. Piotr Hajłasz) and Analysis 2 (Prof. Armin Schikorra)
 * PDE 1 (Prof. Huiqiang Jiang) and PDE 2 ( Prof. Armin Schikorra)
-
