@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-## MY STUDENTS LOVE ME AND MY TEACHING! <br />
-
+## MY STUDENTS LOVE ME AND MY TEACHING!
 **THEY SAY that I teach in a way that everyone understands!** <br />
 **THEY SAY that I am enthusiastic, eager to explain, kind, prepared, approachable, helpful, supportive, and well-spoken!** <br />
 **THEY ALSO SAY that I am willing to go slow, allowing them to bring any questions, and I try my best to interact with them and help them!**<br />
