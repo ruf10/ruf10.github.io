@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Coursework and Skills"
-permalink: /skills/
+permalink: /courseworkandskills/
 author_profile: true
 ---
 {% include base_path %}
