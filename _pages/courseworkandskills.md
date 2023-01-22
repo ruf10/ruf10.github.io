@@ -5,6 +5,8 @@ permalink: /courseworkandskills/
 author_profile: true
 ---
 {% include base_path %}
+My research interests is solving fluid dynamics problems using numerical methods, and combining with novel machine learning algorithms. By taking Prof.Hajłasz, Prof. Jiang and Prof. Schikorra's lectures, I have solid math foundations. And, our math department at Pitt has a very strong numerical group. I have taken 8 core courses from my thesis advisor Prof. Layton, Prof. Yotov and Prof. Neilan, which help me to have a solid background to conduct research. <br />
+Prof. Layton and I are working on the traditional numerical methods and also are interested in developping noval models that use machine learing and numerical methods to better approximate the fluid motion. <br />
 ## Numerical Analysis and Scientific Computing:
 * Prof. William Layton: 
     * Math 2604 Advanced Scientific Computing 4
