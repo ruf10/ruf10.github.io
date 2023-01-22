@@ -19,7 +19,7 @@ Since then, I have attended Salsa Dancing Club at Carnegie Mellon University reg
 
 Last summer, I joined the Ballroom Dance Club at Carnegie Mellon University. I learn Latin Dances such as light and bubbly Cha-cha, sexy Rumba, lighthearted and cheery Samba, energetic Jive, and arrogant and passionate Paso Doble. I also love Standard Dances, which are elegant and classical, Waltz, Quickstep, Foxtrot, Tango, and Viennese Waltz.
 
-***I go to ballroom competitions. The picture below was taken in November 2022 at the Ohio Star Ball collegiate ballroom competition, which is well-known and has a history of over 40 years. I placed 2nd place in International Latin Bronze level Cha-cha and Rumba, and 3rd place in International Standard Pre-Bronze level Waltz and Quickstep.*** I love traveling with ballroom friends. We cheer for each other and support each other, and try our best to bring honor to our team!
+***I go to ballroom competitions. The picture above was taken in November 2022 at the Ohio Star Ball collegiate ballroom competition, which is well-known and has a history of over 40 years. I placed 2nd place in International Latin Bronze level Cha-cha and Rumba, and 3rd place in International Standard Pre-Bronze level Waltz and Quickstep.*** I love traveling with ballroom friends. We cheer for each other and support each other, and try our best to bring honor to our team!
 
 **If you love my dance story and are inspired, please join me for Ballroom dance. We meet on Monday and Wednesday evenings in Pittsburgh! Email me for more information!**
 <br />
