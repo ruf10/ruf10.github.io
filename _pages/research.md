@@ -6,9 +6,13 @@ author_profile: true
 ---
 {% include base_path %}
 ## Navier Stokes Equations, One of Seven Millennium Prize Problems by Clay Institute
-Charles L. Fefferman wrote in the official problem description: **"Fluids are important and hard to understand**. There are many fascinating problems and conjectures about the behavior of solutions of the Euler and **Navier–Stokes equations**. **Since we don’t even know whether these solutions exist, our understanding is at a very primitive level... Instead, we probably need some deep, new ideas."**<br />
-Human has always been curious about fluids, the earliest study about fluids dates back to pre-history. 
+Charles L. Fefferman wrote in the official problem description: **"Fluids are important and hard to understand**. There are many fascinating problems and conjectures about the behavior of solutions of the Euler and **Navier–Stokes equations**. **Since we don’t even know whether these solutions exist, our understanding is at a very primitive level... Instead, we probably need some deep, new ideas."** <br />
 
+(in the states why we care about fluids )
+
+Acrtually, the history of we human study fluids can date back to pre-history when the earliest human civilizations began near the shores of rivers. Important Mathematicians throughout history have devoted their life to the study of fuilds, from Archimedes(c.287 – c.212 BC) "Hydrostatics", "on floating Bodies", Newton(1642-1727) "Conservation of Linear Monentum", Daniel Bernoulli (1700- 1782) "Hydrodynamics", Euler(1707-1785), Cauchy(1789–1857). **In early 19th century, Navier and Stokes gave the mathematically expression, conservation of momentum and conservation of mass for Newtonian fluids** Since then, Maxwell, Reynolds, Poincare...Richardson, and mathematitions today. 
+
+My research is to study the 
 ## Penalty methods for Navier Stokes Equations
 
 ### A Doubly Pointwise Adaptive Penalty Method for the Navier Stokes Equations
