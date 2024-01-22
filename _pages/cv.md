@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  CV_RuiFang_Mellon_24.pdf
+  ruf10.github.io/CV_RuiFang_Mellon_24.pdf
 ---
 
 {% include base_path %}
