@@ -19,8 +19,7 @@ I'm Rui, a graduate student at the math department at the University of Pittsbur
 *Capital Normal University, Beijing, China*
 
 
-### Important Links
-- **Email:** [Your Email Address]
-- **Google Scholar:** [Your Google Scholar Profile]
-- [Add more links as needed]
 
+[Email](ruf10.pitt.edu) <br />
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=W9GY0i0AAAAJ) <br />
+[CV](https://ruf10.github.io/CV_RuiFang.pdf)
