@@ -12,12 +12,9 @@ main:
     
   - title: "Publications"
     url: /publications/
-    
-  - title: "CV"
-    url: /cv/
 
-  - title: "cv pdf"
-    url: /CV_RuiFang_Mellon_24.pdf
+  - title: "CV"
+    url: /CV_RuiFang.pdf
     
   - title: "Ballroom Dance"
     url: /ballroomdance/
