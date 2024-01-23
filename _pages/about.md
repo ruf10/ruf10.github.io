@@ -9,20 +9,15 @@ redirect_from:
 ---
 I'm Rui, a graduate student at the math department at the University of Pittsburgh. My research interest is numerical analysis and sicentific computing.
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 0 0 48%;">
-    ## Education
-    **Ph.D. in Mathematics, 2019-Present** <br />
-    *University of Pittsburgh, PA* 
+### Education
+- **Ph.D. in Mathematics, 2019-Present**
+  - *University of Pittsburgh, PA* 
 
-    **Dual B.S. in Mathematics, 2015-2019** <br />
-    *University of Cincinnati, OH* <br />
-    *Capital Normal University, Beijing, China*
-  </div>
-  <div style="flex: 0 0 48%;">
-    ## Important Links
-    - **Email:** [Your Email Address]
-    - **Google Scholar:** [Your Google Scholar Profile]
-    - [Add more links as needed]
-  </div>
-</div>
+- **Dual B.S. in Mathematics, 2015-2019**
+  - *University of Cincinnati, OH*
+  - *Capital Normal University, Beijing, China*
+
+### Important Links
+- **Email:** [Your Email Address]
+- **Google Scholar:** [Your Google Scholar Profile]
+- [Add more links as needed]
