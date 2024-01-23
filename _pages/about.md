@@ -20,6 +20,4 @@ I'm Rui, a graduate student at the math department at the University of Pittsbur
 
 
 
-[Email](ruf10.pitt.edu) <br />
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=W9GY0i0AAAAJ) <br />
-[CV](https://ruf10.github.io/CV_RuiFang.pdf)
+[Email](ruf10.pitt.edu)  [Google Scholar](https://scholar.google.com/citations?hl=en&user=W9GY0i0AAAAJ)  [CV](https://ruf10.github.io/CV_RuiFang.pdf)
