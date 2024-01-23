@@ -19,6 +19,6 @@ I'm Rui, a graduate student at the math department at the University of Pittsbur
 
 ## Contact Information
 **Email:** [ruf10@pitt.edu](mailto:ruf10@pitt.edu) <br />
-**Google Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en) <br />
+**Google Scholar:** [Rui Fang's Scholar Profile](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en) <br />
 **CV:**  [Download CV](https://ruf10.github.io/CV_RuiFang.pdf)
 
