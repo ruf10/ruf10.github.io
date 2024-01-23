@@ -10,7 +10,6 @@ redirect_from:
 I'm Rui, a graduate student at the math department at the University of Pittsburgh. My research interest is numerical analysis and sicentific computing.
 
 ## Education
-
 **Ph.D. in Mathematics, 2019- Present** <br />
 *University of Pittsburgh, PA* <br />
 
