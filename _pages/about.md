@@ -10,11 +10,9 @@ redirect_from:
 I'm Rui, a graduate student at the math department at the University of Pittsburgh. My research interest is numerical analysis and sicentific computing.
 
 ## Education
-
-- **Master of Science in Mathematics**
+- **Ph.D. in Mathematics, 2019-**
   - *University of Pittsburgh*
-  - *[Year of Graduation]* (e.g., expected 2023)
 
-- **Bachelor of Science in [Your Major]**
-  - *[Your University]*
-  - *Year of Graduation*
+- **Dual BSc in Mathematics, 2015-2019**
+  - *University of Cincinnati, OH*
+  - *Capital Normal University, Beijing, China*
