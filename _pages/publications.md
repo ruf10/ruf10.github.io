@@ -15,7 +15,7 @@ Weiwei Han, Rui Fang, Numerical analysis of a 1/2-equation model of turbulence, 
 Rui Fang, Penalty ensembles for the Navier-Stokes, the VI th AMMCS Conference, Waterloo, ON,
 Canada, 2023.  <br />
 [Download paper here](
-https://arxiv.org/abs/2309.03358](https://arxiv.org/abs/2309.12870
+https://arxiv.org/abs/2309.12870
 )
 
 Rui Fang, An algorithm for fast calculation of flow ensembles, manuscript complete, aim for a journal to submit.
