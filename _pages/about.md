@@ -10,7 +10,7 @@ redirect_from:
 I'm Rui, a graduate student at the math department at the University of Pittsburgh. My research interest is numerical analysis and sicentific computing.
 
 
-### Education
+## Education
 **Ph.D. in Mathematics, 2019-Present** <br />
 *University of Pittsburgh, PA* 
 
@@ -19,5 +19,7 @@ I'm Rui, a graduate student at the math department at the University of Pittsbur
 *Capital Normal University, Beijing, China*
 
 
-
-[Email](ruf10.pitt.edu)  [Google Scholar](https://scholar.google.com/citations?hl=en&user=W9GY0i0AAAAJ)  [CV](https://ruf10.github.io/CV_RuiFang.pdf)
+## Contact Information
+**Email:** [ruf10.com](mailto:your_email@example.com) <br />
+**Google Scholar:** [Google Scholar Profile](https://scholar.google.com/citations/your_profile) <br />
+**CV:**  [Download CV](https://ruf10.github.io/CV_RuiFang.pdf)
