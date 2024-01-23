@@ -17,6 +17,7 @@ main:
     url: /cv/
 
   - title: "cv pdf"
-    url: /index
+    url: /CV_RuiFang_Mellon_24.pdf
+    
   - title: "Ballroom Dance"
     url: /ballroomdance/
