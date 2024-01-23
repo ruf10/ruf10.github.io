@@ -13,7 +13,7 @@ Rui Fang, Weiwei Han, William Layton, On a 1/2-equation model of turbulence. In 
 Rui Fang, Penalty ensembles for the Navier-Stokes, the VI th AMMCS Conference, Waterloo, ON,
 Canada, 2023.  <br />
 [Download paper here](
-[ https://arxiv.org/abs/2309.03358](https://arxiv.org/abs/2309.12870.)
+https://arxiv.org/abs/2309.03358](https://arxiv.org/abs/2309.12870
 )
 
 Fang, Schreiner. “A Hybrid Deep Learning Approach to Vertexing.” Journal of Physics. Conference Series,
