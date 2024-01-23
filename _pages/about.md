@@ -9,22 +9,8 @@ redirect_from:
 ---
 I'm Rui, a graduate student at the math department at the University of Pittsburgh. My research interest is numerical analysis and sicentific computing.
 
-<style>
-  .columns {
-    display: flex;
-    justify-content: space-between;
-  }
-
-  .column {
-    flex: 0 0 48%; /* Adjust the width of each column as needed */
-  }
-</style>
-
-I'm Rui, a graduate student at the math department at the University of Pittsburgh. My research interest is numerical analysis and scientific computing.
-
-<div class="columns">
-
-  <div class="column">
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 0 0 48%;">
     ## Education
     **Ph.D. in Mathematics, 2019-Present** <br />
     *University of Pittsburgh, PA* 
@@ -33,12 +19,10 @@ I'm Rui, a graduate student at the math department at the University of Pittsbur
     *University of Cincinnati, OH* <br />
     *Capital Normal University, Beijing, China*
   </div>
-
-  <div class="column">
+  <div style="flex: 0 0 48%;">
     ## Important Links
     - **Email:** [Your Email Address]
     - **Google Scholar:** [Your Google Scholar Profile]
     - [Add more links as needed]
   </div>
-
 </div>
