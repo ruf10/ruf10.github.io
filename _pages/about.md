@@ -11,9 +11,9 @@ I'm Rui, a graduate student at the math department at the University of Pittsbur
 
 ## Education
 **Ph.D. in Mathematics, 2019-Present** <br />
- *University of Pittsburgh, PA* <br />
+ *University of Pittsburgh, PA, United States* <br />
 **Dual B.S. in Mathematics, 2015-2019** <br />
-*University of Cincinnati, OH* <br />
+*University of Cincinnati, OH, United States* <br />
 *Capital Normal University, Beijing, China*
 
 
