@@ -11,7 +11,7 @@ I studied hard on the preliminary exams during my first year at Pitt and also di
 Naturally, my colleagues and I started hanging out for fun things outside school and **that's when Salsa dancing, a Latin dance that emerged in Cuba, first came into my life.**
 <br />
 <div style="display: flex; align-items: center;">
-  <img style="flex-shrink: 0; margin-right: 20px;" width="400" alt="Image1" src="https://github.com/ruf10/ruf10.github.io/blob/67e6e3209beff516119f559e751ab2836d6c6f1d/images/chicago-oct23.png">
+  <img width="400" alt="Image1" src="https://github.com/ruf10/ruf10.github.io/blob/67e6e3209beff516119f559e751ab2836d6c6f1d/images/chicago-oct23.png">
 
   <div>
     <p>
