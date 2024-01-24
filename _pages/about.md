@@ -16,7 +16,6 @@ My name is Rui Fang, and I am a math Ph.D. candidate at the University of Pittsb
 *University of Cincinnati, OH, United States* <br />
 *Capital Normal University, Beijing, China*
 
-
 ### Connect with me
 **Email:** [ruf10@pitt.edu](mailto:ruf10@pitt.edu) <br />
 **Linkedin:** [LinkedIn Profile](www.linkedin.com/in/ruf10) <br />
@@ -24,8 +23,9 @@ My name is Rui Fang, and I am a math Ph.D. candidate at the University of Pittsb
 **CV:**  [Download CV](https://ruf10.github.io/CV_RuiFang.pdf)
 
 ### Activities and Leadership
-**Carnegie Mellon Ballroom Club:** [Instgram](https://www.instagram.com/cmuballroom?igsh=NDlyZmZubTY0eXhy) <br />
-**Officer of Mathematics Graduate Student Orgnization:** [See more info](https://www.mathematics.pitt.edu/graduate/organizations/mathematics-graduate-student-organization-gso) <br />
-**Vice-President of the Association of Women in Mathematics:** [Support us](https://www.mathematics.pitt.edu/AWM)
+*Carnegie Mellon Ballroom Club:* [Instgram](https://www.instagram.com/cmuballroom?igsh=NDlyZmZubTY0eXhy) <br />
+*Vice-President of the Association of Women in Mathematics:* [Support us](https://www.mathematics.pitt.edu/AWM)<br />
+*Officer of Mathematics Graduate Student Orgnization:* [See more info](https://www.mathematics.pitt.edu/graduate/organizations/mathematics-graduate-student-organization-gso) 
+
 
 
