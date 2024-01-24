@@ -9,27 +9,20 @@ redirect_from:
 ---
 My name is Rui Fang, and I am a math Ph.D. candidate at the University of Pittsburgh.  I am passionate about numerical analysis and scientific computing, and I am working on improving fluid flow simulation accuracy. My research explores penalty ensembles for the Navier-Stokes equations and combines machine learning techniques. As an Andrew Mellon Fellow 2023-2024, I am dedicating myself to my research.
 
-| ### Education                                                      | ### Connect with me |
-| ------------------------------------------------------------------ | ----------------------------- |
-| **Ph.D. in Mathematics, 2019-Present** | **Email:** [ruf10@pitt.edu](mailto:ruf10@pitt.edu)  |
-| *University of Pittsburgh, PA, United States*   | **Linkedin:** [LinkedIn Profile](www.linkedin.com/in/ruf10)  |
-|**Dual B.S. in Mathematics, 2015-2019** |**Google Scholar:** [Rui Fang's Scholar Profile](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en)|
-|*University of Cincinnati, OH, United States* |**CV:**  [Download CV](https://ruf10.github.io/CV_RuiFang.pdf)|
-|*Capital Normal University, Beijing, China*| 
-### Education
-**Ph.D. in Mathematics, 2019-Present** <br />
- *University of Pittsburgh, PA, United States* <br />
-**Dual B.S. in Mathematics, 2015-2019** <br />
-*University of Cincinnati, OH, United States* <br />
-*Capital Normal University, Beijing, China*
+**Education
+*Ph.D. in Mathematics, 2019-Present* <br />
+ University of Pittsburgh, PA, United States* <br />
+*Dual B.S. in Mathematics, 2015-2019* <br />
+University of Cincinnati, OH, United States <br />
+Capital Normal University, Beijing, China
 
-### Connect with me
-**Email:** [ruf10@pitt.edu](mailto:ruf10@pitt.edu) <br />
-**Linkedin:** [LinkedIn Profile](www.linkedin.com/in/ruf10) <br />
-**Google Scholar:** [Rui Fang's Scholar Profile](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en) <br />
-**CV:**  [Download CV](https://ruf10.github.io/CV_RuiFang.pdf)
+**Connect with me
+*Email:* [ruf10@pitt.edu](mailto:ruf10@pitt.edu) <br />
+*Linkedin:* [LinkedIn Profile](www.linkedin.com/in/ruf10) <br />
+*Google Scholar:* [Rui Fang's Scholar Profile](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en) <br />
+*CV:*  [Download CV](https://ruf10.github.io/CV_RuiFang.pdf)
 
-### Activities and Leadership
+**Activities and Leadership
 *Carnegie Mellon Ballroom Club:* [Instgram](https://www.instagram.com/cmuballroom?igsh=NDlyZmZubTY0eXhy) <br />
 *Vice-President of the Association of Women in Mathematics:* [Support us](https://www.mathematics.pitt.edu/AWM)<br />
 *Officer of Mathematics Graduate Student Orgnization:* [See more info](https://www.mathematics.pitt.edu/graduate/organizations/mathematics-graduate-student-organization-gso) 
