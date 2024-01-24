@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "COURSES AND CORE SKILLS"
+title: "Skills/Courses"
 permalink: /courseworkandskills/
 author_profile: true
 ---
@@ -11,6 +11,8 @@ author_profile: true
 **Libraries and tools:** Pytorch, TensorFlow, Keras, NumPy, SciPy, Pandas, Dolfinx, FEniCSx, and SQL.  <br />
 **Skills:** parallel computing on GPU and SMP clusters, time series analysis.  <br />
 **Coding languages:** Python, JAVA, and MATLAB.  <br />
+
+
 
 
 
