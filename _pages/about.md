@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Rui, a graduate student at the math department at the University of Pittsburgh. My research interest is numerical analysis and sicentific computing.
+My name is Rui Fang, and I am a math Ph.D. candidate at the University of Pittsburgh.  I am passionate about numerical analysis and scientific computing, and I am working on improving fluid flow simulation accuracy. My research explores penalty ensembles for the Navier-Stokes equations and combines machine learning techniques. As an Andrew Mellon Fellow 2023-2024, I am dedicating myself to my research.
 
 ## Education
 **Ph.D. in Mathematics, 2019-Present** <br />
