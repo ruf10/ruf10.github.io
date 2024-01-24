@@ -1,11 +1,10 @@
 # main links links
 main:
-
-  - title: "Research Relevant Courses"
-    url: /courseworkandskills/
-    
   - title: "Research"
     url: /research/
+  
+  - title: "Research Relevant Courses"
+    url: /courseworkandskills/
     
   - title: "Teaching"
     url: /teaching/
