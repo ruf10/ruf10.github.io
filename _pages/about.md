@@ -11,7 +11,7 @@ My name is Rui Fang, and I am a math Ph.D. candidate at the University of Pittsb
 
 ### Education
 **Ph.D. in Mathematics, 2019-Present** <br />
- University of Pittsburgh, PA, United States* <br />
+ University of Pittsburgh, PA, United States <br />
 **Dual B.S. in Mathematics, 2015-2019** <br />
 University of Cincinnati, OH, United States <br />
 Capital Normal University, Beijing, China
