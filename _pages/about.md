@@ -17,12 +17,12 @@ University of Cincinnati, OH, United States <br />
 Capital Normal University, Beijing, China
 
 ### CONNECT WITH ME
-**[ruf10@pitt.edu](mailto:ruf10@pitt.edu)**  |  **[Linkedin](www.linkedin.com/in/ruf10)**  |  **[Google Scholar](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en)**  |  **[CV](https://ruf10.github.io/CV_RuiFang.pdf)**
+[ruf10@pitt.edu](mailto:ruf10@pitt.edu) |  [Linkedin](www.linkedin.com/in/ruf10)  |  [Google Scholar](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en)  |  [CV](https://ruf10.github.io/CV_RuiFang.pdf)
 
 ### ACTIVITIES & LEADERSHIPS
-**Carnegie Mellon Ballroom Club:** [Instgram](https://www.instagram.com/cmuballroom?igsh=NDlyZmZubTY0eXhy) <br />
-**Association of Women in Mathematics:** Vice-president [Support us](https://www.mathematics.pitt.edu/AWM)<br />
-**Mathematics Graduate Student Orgnization:** Officer [See more info](https://www.mathematics.pitt.edu/graduate/organizations/mathematics-graduate-student-organization-gso) 
+Carnegie Mellon Ballroom Club: [Instgram](https://www.instagram.com/cmuballroom?igsh=NDlyZmZubTY0eXhy) <br />
+Association of Women in Mathematics: Vice-president [Support us](https://www.mathematics.pitt.edu/AWM)<br />
+Mathematics Graduate Student Orgnization: Officer [See more info](https://www.mathematics.pitt.edu/graduate/organizations/mathematics-graduate-student-organization-gso) 
 
 
 
