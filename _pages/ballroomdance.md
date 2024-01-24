@@ -10,15 +10,10 @@ author_profile: true
 I studied hard on the preliminary exams during my first year at Pitt and also did the other first years. We went to lectures and recitations and tried our best to gain knowledge with the help of professors and TAs. We created study groups, we discussed problems in the evenings during the weekdays, and on the weekends, we formed a tight bond.    <br />
 Naturally, my colleagues and I started hanging out for fun things outside school and **that's when Salsa dancing, a Latin dance that emerged in Cuba, first came into my life.**
 <br />
-<div style="display: flex; align-items: center;">
-  <img width="400" alt="Image1" src="https://github.com/ruf10/ruf10.github.io/blob/67e6e3209beff516119f559e751ab2836d6c6f1d/images/chicago-oct23.png">
+<img align="left" width="200" src="https://www.rd.com/wp-content/uploads/2018/02/25_Hilarious-Photos-that-Will-Get-You-Through-the-Week_280228817_Doty911.jpg" />
 
-  <div>
-    <p>
-      ***I will never forget my first Salsa social dancing on a winter night.*** I stepped onto the dancing floor from the outside, excited but more nervous. My math friend said Hi, and invited me to dance with him. Listening to salsa music, and feeling the enthusiasm from the people out there, I was warmed up and started enjoying the music and dancing to music. <br /> Since then, I have attended Salsa Dancing Club at Carnegie Mellon University regularly and learned Salsa dance and Bachata dance basic move, other fun moves. I go to social dance to "show off" and practice. I love dancing with people. **I feel that I was born to be a dancer**.
-    </p>
-  </div>
-</div>
+  ***I will never forget my first Salsa social dancing on a winter night.*** I stepped onto the dancing floor from the outside, excited but more nervous. My math friend said Hi, and invited me to dance with him. Listening to salsa music, and feeling the enthusiasm from the people out there, I was warmed up and started enjoying the music and dancing to music. <br /> Since then, I have attended Salsa Dancing Club at Carnegie Mellon University regularly and learned Salsa dance and Bachata dance basic move, other fun moves. I go to social dance to "show off" and practice. I love dancing with people. **I feel that I was born to be a dancer**.
+
 
  <img width="935" alt="sam_owen_group_osb" src="https://user-images.githubusercontent.com/66021647/213876262-f6f6a912-2599-4051-9569-02bcf7891fc8.png">  I go to ballroom competitions. The picture above was taken in November 2022 at the Ohio Star Ball collegiate ballroom competition, which is well-known and has a history of over 40 years.  
 
