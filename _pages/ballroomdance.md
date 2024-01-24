@@ -13,7 +13,7 @@ Naturally, my colleagues and I started hanging out for fun things outside school
 | <img width="735" alt="sam_owen_group_osb" src="https://user-images.githubusercontent.com/66021647/213876262-f6f6a912-2599-4051-9569-02bcf7891fc8.png"> | I go to ballroom competitions. The picture above was taken in November 2022 at the Ohio Star Ball collegiate ballroom competition, which is well-known and has a history of over 40 years.  |
 
 
-|<img width="435" alt="sam_owen_group_osb" src="https://github.com/ruf10/ruf10.github.io/blob/67e6e3209beff516119f559e751ab2836d6c6f1d/images/chicago-oct23.png">| I love traveling with ballroom friends. We cheer for each other and support each other, and try our best to bring honor to our team!      |
+| <img width="435" alt="sam_owen_group_osb" src="https://github.com/ruf10/ruf10.github.io/blob/67e6e3209beff516119f559e751ab2836d6c6f1d/images/chicago-oct23.png"> | I love traveling with ballroom friends. We cheer for each other and support each other, and try our best to bring honor to our team!      |
 
 
 
