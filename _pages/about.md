@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img align="right" width="300" src="{{ site.url }}{{ site.baseurl }}/images/rui_newriver_geroge.JPG" />
+<img align="right" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui_newriver_geroge.JPG" />
 My name is Rui Fang, and I am a math Ph.D. candidate at the University of Pittsburgh.  I am passionate about numerical analysis and scientific computing, and I am working on improving fluid flow simulation accuracy. My research explores penalty ensembles for the Navier-Stokes equations and combines machine learning techniques. As an Andrew Mellon Fellow 2023-2024, I am dedicating myself to my research.
 
 ### EDUCATION
