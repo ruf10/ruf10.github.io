@@ -11,17 +11,39 @@ My name is Rui Fang, and I am a math Ph.D. candidate at the University of Pittsb
 
 <table>
 <tr>
+<th>Education </th>
+<th>Connect with me</th>
+</tr>
+<tr>
+<td>
+  
+**Ph.D. in Mathematics, 2019-Present** <br />
+ *University of Pittsburgh, PA, United States* <br />
+**Dual B.S. in Mathematics, 2015-2019** <br />
+*University of Cincinnati, OH, United States* <br />
+*Capital Normal University, Beijing, China*
+
+  
+</td>
+<td>
+
+**Email:** [ruf10@pitt.edu](mailto:ruf10@pitt.edu) <br />
+**Linkedin:** [LinkedIn Profile](www.linkedin.com/in/ruf10) <br />
+**Google Scholar:** [Rui Fang's Scholar Profile](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en) <br />
+**CV:**  [Download CV](https://ruf10.github.io/CV_RuiFang.pdf)
+
+</td>
+</tr>
+</table>
+<table>
+<tr>
 </tr>
 <tr>
 <td style="vertical-align: top;">
 <div style="padding-right: 20px;">
 
 ### Education
-**Ph.D. in Mathematics, 2019-Present** <br />
- *University of Pittsburgh, PA, United States* <br />
-**Dual B.S. in Mathematics, 2015-2019** <br />
-*University of Cincinnati, OH, United States* <br />
-*Capital Normal University, Beijing, China*
+
 
 
   
@@ -30,10 +52,7 @@ My name is Rui Fang, and I am a math Ph.D. candidate at the University of Pittsb
 <div style="padding-left: 20px;">
   
 ### Connect with me
-**Email:** [ruf10@pitt.edu](mailto:ruf10@pitt.edu) <br />
-**Linkedin:** [LinkedIn Profile](www.linkedin.com/in/ruf10) <br />
-**Google Scholar:** [Rui Fang's Scholar Profile](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en) <br />
-**CV:**  [Download CV](https://ruf10.github.io/CV_RuiFang.pdf)
+
 
 </td>
 </tr>
