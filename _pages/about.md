@@ -18,7 +18,7 @@ My name is Rui Fang, and I am a math Ph.D. candidate at the University of Pittsb
 University of Cincinnati, OH, United States <br />
 Capital Normal University, Beijing, China
 
-<img align="right" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-single.JPG" />
+<img align="right" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui_newriver_geroge.JPG" />
 ### CONNECT WITH ME
 [ruf10@pitt.edu](mailto:ruf10@pitt.edu) |  [Linkedin](https://www.linkedin.com/in/ruf10/)  |  [Google Scholar](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en)  |  [CV](https://ruf10.github.io/CV_RuiFang.pdf)
 
