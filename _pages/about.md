@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <img align="right" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" />
-My name is Rui Fang, and I am a math Ph.D. candidate at the University of Pittsburgh.  I am passionate about numerical analysis and scientific computing, and I am working on improving fluid flow simulation accuracy. My research explores penalty ensembles for the Navier-Stokes equations and combines machine learning techniques. As an Andrew Mellon Fellow 2023-2024, I am dedicating myself to my research. <br />
+My name is Rui Fang, and I am a Ph.D. candidate in Mathematics at the University of Pittsburgh. I am passionate about numerical analysis and scientific computing, and I am working on improving fluid flow simulation accuracy. My research explores penalty ensembles for the Navier-Stokes equations and combines machine learning techniques. As an Andrew Mellon Fellow 2023-2024, I am dedicating myself to my research. <br />
 
 <img align="left" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" style="margin-right: 20px;" /> 
 ### EDUCATION
@@ -18,7 +18,7 @@ My name is Rui Fang, and I am a math Ph.D. candidate at the University of Pittsb
 University of Cincinnati, OH, United States <br />
 Capital Normal University, Beijing, China
 
-<img align="right" width="200" src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" />
+<img align="right" width="300" src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" />
 ### CONNECT WITH ME
 [ruf10@pitt.edu](mailto:ruf10@pitt.edu) |  [Linkedin](https://www.linkedin.com/in/ruf10/)  |  [Google Scholar](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en)  |  [CV](https://ruf10.github.io/CV_RuiFang.pdf)
 
