@@ -25,7 +25,7 @@ Capital Normal University, Beijing, China
 ### ACTIVITIES & LEADERSHIPS
 Carnegie Mellon Ballroom Club: [Instgram](https://www.instagram.com/cmuballroom?igsh=NDlyZmZubTY0eXhy) <br />
 Association of Women in Mathematics: Vice-president [Support us](https://www.mathematics.pitt.edu/AWM)<br />
-Mathematics Graduate Student Orgnization: Officer [See more info](https://www.mathematics.pitt.edu/graduate/organizations/mathematics-graduate-student-organization-gso) 
+Mathematics Graduate Student Organization: Officer [See more info](https://www.mathematics.pitt.edu/graduate/organizations/mathematics-graduate-student-organization-gso) 
 
 
 
