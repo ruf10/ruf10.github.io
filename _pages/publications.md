@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
-{\bf Rui Fang}, \textit{An algorithm for fast calculation of flow ensembles with Monte Carlo}, (In preparation for submission).
 
 **Rui Fang**, Numerical Analysis of Locally Adaptive Penalty Methods For The Navier-Stokes Equations, Journal of Scientific Computing, In revision, 2024. <br />
 [Download paper here](
