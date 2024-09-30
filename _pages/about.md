@@ -15,20 +15,10 @@ My research focuses on enhancing the accuracy of fluid flow simulations by devel
 **President of AWM (Association of Women in Mathematics)**:<br />
 As the president of the AWM Pittsburgh Chapter, I host monthly graduate student seminars, inviting speakers from around the world to promote equal opportunities and encourage women to pursue careers in mathematics. I also organize coffee chats and semester-end dinners to foster community and engagement. Additionally, I collaborate with the University of Pittsburgh's Girls' Summer Math Camp, inspiring girls from diverse backgrounds to become future mathematicians, engineers, and scientists.
 
-Video recordings of AWM Pittsburgh Chapter talks can be found here: https://www.youtube.com/channel/UCtbXkHiM0NS_cS2kTR0uNwg/videos <br/>
+Video recordings of AWM Pittsburgh Chapter talks can be found here: https://www.youtube.com/channel/UCtbXkHiM0NS_cS2kTR0uNwg/videos <br />
 To learn more about the seminar series and upcoming talks, please visit the website: https://www.mathematics.pitt.edu/content/pitt-awm-student-seminar-series <br />
 For other AWM activities, please visit: https://www.mathematics.pitt.edu/AWM <br/>
 If you know anyone who wishes to give a talk, please email me at: ruf10@pitt.edu <br/>
-
-
-
-Video recordings of AWM Pittsburgh Chapter talks can be found here:
-https://www.youtube.com/channel/UCtbXkHiM0NS_cS2kTR0uNwg/videos
-To learn more about the seminar series and upcoming talks, please visit the website
-https://www.mathematics.pitt.edu/content/pitt-awm-student-seminar-series
-For other AWM activities, please visit
-https://www.mathematics.pitt.edu/AWM
-[Support us](https://www.mathematics.pitt.edu/AWM)<br />
 
 
 
