@@ -1,19 +1,17 @@
 ---
 permalink: /
-title: "Bio"
+title: "Welcome to my website"
 excerpt: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui_department_profile.jpg" />
-
-**Welcome to my website!** I’m Rui Fang, a Ph.D. candidate in Mathematics at the University of Pittsburgh, working under the guidance of Prof. William Layton in the numerical analysis group.
+I’m Rui Fang, a Ph.D. candidate in Mathematics at the University of Pittsburgh, working under the guidance of Prof. William Layton in the numerical analysis group.
 
 My research focuses on enhancing the accuracy of fluid flow simulations by developing advanced methods, such as penalty ensembles for the Navier-Stokes equations. I am particularly excited about integrating machine learning techniques into these models to drive innovative solutions. As an Andrew Mellon Fellow for 2023-2024, I am dedicated to pushing the boundaries of scientific computing and advancing fluid dynamics research. <br />
 
-**As the president of the AWM Pittsburgh Chapter**, I host monthly graduate student seminars, inviting speakers from around the world to promote equal opportunities and encourage women to pursue careers in mathematics. I also organize coffee chats and semester-end dinners to foster community and engagement. Additionally, I collaborate with the University of Pittsburgh's Girls' Summer Math Camp, inspiring girls from diverse backgrounds to become future mathematicians, engineers, and scientists. <br />
+**As the president of the AWM (Association of Women in Mathematics) Pittsburgh Chapter**, I host monthly graduate student seminars, inviting speakers from around the world to promote equal opportunities and encourage women to pursue careers in mathematics. I also organize coffee chats and semester-end dinners to foster community and engagement. Additionally, I collaborate with the University of Pittsburgh's Girls' Summer Math Camp, inspiring girls from diverse backgrounds to become future mathematicians, engineers, and scientists. <br />
 
 **As a student leader of the Mathematics GSO (Graduate Student Organization)**, I coordinate open houses for prospective graduate students and organize social events such as the fall picnic, end-of-year party, and summer gatherings. I also address graduate student concerns about teaching and preliminary exams, serving as a bridge between students and the faculty. <br />
 
