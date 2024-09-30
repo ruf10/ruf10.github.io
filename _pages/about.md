@@ -29,9 +29,9 @@ Capital Normal University, Beijing, China
 ### ACTIVITIES
 Carnegie Mellon Ballroom Club: [Instgram](https://www.instagram.com/cmuballroom?igsh=NDlyZmZubTY0eXhy) <br />
 
-<img align="left" width="300" src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" />
-<img align="middle" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" />
-<img align="right" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png"" /> 
+<img align="" width="300" src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" />
+<img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" />
+<img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" /> 
 
 
 
