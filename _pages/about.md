@@ -26,11 +26,13 @@ Capital Normal University, Beijing, China
 ### CONNECT WITH ME
 [ruf10@pitt.edu](mailto:ruf10@pitt.edu) |  [Linkedin](https://www.linkedin.com/in/ruf10/)  |  [Google Scholar](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en)  |  [CV](https://ruf10.github.io/CV_RuiFang.pdf)
 
-<img align="" width="300" src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" />
-<img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" />
-<img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" style="margin-right: 20px;" /> 
-
 ### ACTIVITIES
 Carnegie Mellon Ballroom Club: [Instgram](https://www.instagram.com/cmuballroom?igsh=NDlyZmZubTY0eXhy) <br />
+
+<img align="left" width="300" src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" />
+<img align="middle" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" />
+<img align="right" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png"" /> 
+
+
 
 
