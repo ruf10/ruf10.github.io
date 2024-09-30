@@ -11,10 +11,6 @@ I’m Rui Fang, a Ph.D. candidate in Mathematics at the University of Pittsburgh
 
 My research focuses on enhancing the accuracy of fluid flow simulations by developing advanced methods, such as penalty ensembles for the Navier-Stokes equations. I am particularly excited about integrating machine learning techniques into these models to drive innovative solutions. As an Andrew Mellon Fellow for 2023-2024, I am dedicated to pushing the boundaries of scientific computing and advancing fluid dynamics research. <br />
 
-**As the president of the AWM (Association of Women in Mathematics) Pittsburgh Chapter**, I host monthly graduate student seminars, inviting speakers from around the world to promote equal opportunities and encourage women to pursue careers in mathematics. I also organize coffee chats and semester-end dinners to foster community and engagement. Additionally, I collaborate with the University of Pittsburgh's Girls' Summer Math Camp, inspiring girls from diverse backgrounds to become future mathematicians, engineers, and scientists. <br />
-
-**As a student leader of the Mathematics GSO (Graduate Student Organization)**, I coordinate open houses for prospective graduate students and organize social events such as the fall picnic, end-of-year party, and summer gatherings. I also address graduate student concerns about teaching and preliminary exams, serving as a bridge between students and the faculty. <br />
-
 ### EDUCATION
 **Ph.D. in Mathematics, 2019-Present** <br />
 University of Pittsburgh, PA, United States <br />
@@ -25,6 +21,12 @@ Capital Normal University, Beijing, China
 
 ### CONNECT WITH ME
 [ruf10@pitt.edu](mailto:ruf10@pitt.edu) |  [Linkedin](https://www.linkedin.com/in/ruf10/)  |  [Google Scholar](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en)  |  [CV](https://ruf10.github.io/CV_RuiFang.pdf)
+
+### Services and leadrship
+**As the president of the AWM (Association of Women in Mathematics) Pittsburgh Chapter**, I host monthly graduate student seminars, inviting speakers from around the world to promote equal opportunities and encourage women to pursue careers in mathematics. I also organize coffee chats and semester-end dinners to foster community and engagement. Additionally, I collaborate with the University of Pittsburgh's Girls' Summer Math Camp, inspiring girls from diverse backgrounds to become future mathematicians, engineers, and scientists. <br />
+
+**As a student leader of the Mathematics GSO (Graduate Student Organization)**, I coordinate open houses for prospective graduate students and organize social events such as the fall picnic, end-of-year party, and summer gatherings. I also address graduate student concerns about teaching and preliminary exams, serving as a bridge between students and the faculty. <br />
+
 
 ### ACTIVITIES
 Carnegie Mellon Ballroom Club: [Instgram](https://www.instagram.com/cmuballroom?igsh=NDlyZmZubTY0eXhy) <br />
