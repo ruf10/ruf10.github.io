@@ -24,6 +24,10 @@ Capital Normal University, Beijing, China <br />
 
 <img align="" width="200" height="250" src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" />  <img align="" width="200" height="250" src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" />  <img align="" width="200" height="250" src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" />
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" style="width: 200px; height: 250px; object-fit: cover;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" style="width: 200px; height: 250px; object-fit: cover;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" style="width: 200px; height: 250px; object-fit: cover;" />
+
 
 ### Services and leadership
 **As the president of the AWM (Association of Women in Mathematics) Pittsburgh Chapter**, I host monthly graduate student seminars, inviting speakers from around the world to promote equal opportunities and encourage women to pursue careers in mathematics. I also organize coffee chats and semester-end dinners to foster community and engagement. Additionally, I collaborate with the University of Pittsburgh's Girls' Summer Math Camp, inspiring girls from diverse backgrounds to become future mathematicians, engineers, and scientists. <br />
