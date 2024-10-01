@@ -22,9 +22,9 @@ Capital Normal University, Beijing, China
 ### Connect with me
 [ruf10@pitt.edu](mailto:ruf10@pitt.edu) |  [Linkedin](https://www.linkedin.com/in/ruf10/)  |  [Google Scholar](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en)  |  [CV](https://ruf10.github.io/CV_RuiFang.pdf) 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" style="width: 200px; height: 250px; object-fit: cover;" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" style="width: 200px; height: 250px; object-fit: cover;" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" style="width: 200px; height: 250px; object-fit: cover;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" style="width: 250px; height: 250px; object-fit: cover;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" style="width: 250px; height: 250px; object-fit: cover;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" style="width: 250px; height: 250px; object-fit: cover;" />
 
 ### Services and leadership
 **As the president of the AWM (Association of Women in Mathematics) Pittsburgh Chapter**, I host monthly graduate student seminars, inviting speakers from around the world to promote equal opportunities and encourage women to pursue careers in mathematics. I also organize coffee chats and semester-end dinners to foster community and engagement. Additionally, I collaborate with the University of Pittsburgh's Girls' Summer Math Camp, inspiring girls from diverse backgrounds to become future mathematicians, engineers, and scientists. <br />
