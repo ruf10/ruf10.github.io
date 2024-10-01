@@ -29,9 +29,8 @@ Capital Normal University, Beijing, China
 **As a student leader of the Mathematics GSO (Graduate Student Organization)**, I coordinate open houses for prospective graduate students and organize social events such as the fall picnic, end-of-year party, and summer gatherings. I also address graduate student concerns about teaching and preliminary exams, serving as a bridge between students and the faculty. <br />
 
 
-### ACTIVITIES
+### Activities
 Carnegie Mellon Ballroom Club: [Instgram](https://www.instagram.com/cmuballroom?igsh=NDlyZmZubTY0eXhy) <br />
-
 <img align="" width="300" src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" />
 <img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" />
 <img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" /> 
