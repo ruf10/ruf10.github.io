@@ -18,14 +18,13 @@ University of Pittsburgh, PA, United States <br />
 Advisor: William J Layton <br />
 **Dual B.S. in Mathematics, 2015-2019** <br />
 University of Cincinnati, OH, United States <br />
-Capital Normal University, Beijing, China <br />
+Capital Normal University, Beijing, China 
 ### Connect with me
 [ruf10@pitt.edu](mailto:ruf10@pitt.edu) |  [Linkedin](https://www.linkedin.com/in/ruf10/)  |  [Google Scholar](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en)  |  [CV](https://ruf10.github.io/CV_RuiFang.pdf) 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" style="width: 200px; height: 250px; object-fit: cover;" />
 <img src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" style="width: 200px; height: 250px; object-fit: cover;" />
 <img src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" style="width: 200px; height: 250px; object-fit: cover;" />
-
 
 ### Services and leadership
 **As the president of the AWM (Association of Women in Mathematics) Pittsburgh Chapter**, I host monthly graduate student seminars, inviting speakers from around the world to promote equal opportunities and encourage women to pursue careers in mathematics. I also organize coffee chats and semester-end dinners to foster community and engagement. Additionally, I collaborate with the University of Pittsburgh's Girls' Summer Math Camp, inspiring girls from diverse backgrounds to become future mathematicians, engineers, and scientists. <br />
