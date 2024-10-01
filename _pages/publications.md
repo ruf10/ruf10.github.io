@@ -22,4 +22,12 @@ Canada, accepted, 2023. [Full text](https://arxiv.org/pdf/2309.12870v2)
 
 - **Rui Fang**, Henry F Schreiner, Michael D Sokoloff, Constantin Weisser, and Mike Williams, "A Hybrid Deep Learning Approach to Vertexing", Journal of Physics. Conference Series, vol. 1525, no. 1, IOP Publishing, Apr. 2020, p. 12079–, doi:10.1088/1742-6596/1525/1/012079. <br />
 Citation: Rui Fang et al 2020 J. Phys.: Conf. Ser. 1525 012079. [Full text](https://doi.org/10.1088/1742-6596/1525/1/012079)
-### Talks
+
+### Conference Talks
+- Upcoming: JMM, Seattle, 2025, "Recent Advancements in the Numerical Analysis of Nonlinear Partial Differential Equations”.
+- Upcoming: The 42nd Southeastern-Atlantic Regional Conference on Differential Equations (SEARCDE), West Virginia University, Morgantown, Nov 9-10, 2024.
+-	Mathematical Models and Numerical Methods for Multi-Physics Systems, Pittsburgh, PA, May 2024.
+-	Finite Element Circus, Brown University, Providence, RI, April 2024.
+- Association for Women in Mathematics, University of Pittsburgh, Pittsburgh, PA, September 2023.
+- Applied Mathematics, Modeling and Computational Science, Waterloo, ON, Aug 2023.
+
