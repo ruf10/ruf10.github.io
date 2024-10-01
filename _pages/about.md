@@ -20,32 +20,12 @@ Advisor: William J Layton <br />
 University of Cincinnati, OH, United States <br />
 Capital Normal University, Beijing, China <br />
 
+
 ### Connect with me
-[ruf10@pitt.edu](mailto:ruf10@pitt.edu) |  [Linkedin](https://www.linkedin.com/in/ruf10/)  |  [Google Scholar](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en)  |  [CV](https://ruf10.github.io/CV_RuiFang.pdf)
-<img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" /> <img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" />  <img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" />
+[ruf10@pitt.edu](mailto:ruf10@pitt.edu) |  [Linkedin](https://www.linkedin.com/in/ruf10/)  |  [Google Scholar](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en)  |  [CV](https://ruf10.github.io/CV_RuiFang.pdf) 
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+<img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" />  <img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" />  <img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" />
 
-  <div style="flex-basis: 45%; padding: 10px;">
-    <h3>Education</h3>
-    <p><strong>Ph.D. in Mathematics, 2019-Present</strong><br />
-    University of Pittsburgh, PA, United States<br />
-    Advisor: William J Layton</p>
-
-    <p><strong>Dual B.S. in Mathematics, 2015-2019</strong><br />
-    University of Cincinnati, OH, United States<br />
-    Capital Normal University, Beijing, China</p>
-  </div>
-
-  <div style="flex-basis: 45%; padding: 10px;">
-    <h3>Connect with me</h3>
-    <p><a href="mailto:ruf10@pitt.edu">ruf10@pitt.edu</a> | 
-    <a href="https://www.linkedin.com/in/ruf10/">LinkedIn</a> | 
-    <a href="https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en">Google Scholar</a> |  
-    <a href="https://ruf10.github.io/CV_RuiFang.pdf">CV</a></p>
-  </div>
-
-</div>
 
 
 
