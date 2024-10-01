@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications, preprints, and conference talks"
 permalink: /publications/
 author_profile: true
 ---
