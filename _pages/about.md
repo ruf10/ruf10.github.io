@@ -11,8 +11,7 @@ I’m Rui Fang, a Ph.D. candidate in Mathematics at the University of Pittsburgh
 
 My research focuses on enhancing the accuracy of fluid flow simulations by developing advanced methods, such as penalty ensembles for the Navier-Stokes equations. I am particularly excited about integrating machine learning techniques into these models to drive innovative solutions. As an Andrew Mellon Fellow for 2023-2024, I am dedicated to pushing the boundaries of scientific computing and advancing fluid dynamics research. <br />
 ### Research interest
-<img align="right" width="300" src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" />
-<img align="left" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" /> 
+
 ### Education
 **Ph.D. in Mathematics, 2019-Present** <br /> 
 University of Pittsburgh, PA, United States <br />
@@ -20,9 +19,35 @@ Advisor: William J Layton <br />
 **Dual B.S. in Mathematics, 2015-2019** <br />
 University of Cincinnati, OH, United States <br />
 Capital Normal University, Beijing, China <br />
-<img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" />
+
 ### Connect with me
 [ruf10@pitt.edu](mailto:ruf10@pitt.edu) |  [Linkedin](https://www.linkedin.com/in/ruf10/)  |  [Google Scholar](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en)  |  [CV](https://ruf10.github.io/CV_RuiFang.pdf)
+<img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" /> <img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" />  <img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" />
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+
+  <div style="flex-basis: 45%; padding: 10px;">
+    <h3>Education</h3>
+    <p><strong>Ph.D. in Mathematics, 2019-Present</strong><br />
+    University of Pittsburgh, PA, United States<br />
+    Advisor: William J Layton</p>
+
+    <p><strong>Dual B.S. in Mathematics, 2015-2019</strong><br />
+    University of Cincinnati, OH, United States<br />
+    Capital Normal University, Beijing, China</p>
+  </div>
+
+  <div style="flex-basis: 45%; padding: 10px;">
+    <h3>Connect with me</h3>
+    <p><a href="mailto:ruf10@pitt.edu">ruf10@pitt.edu</a> | 
+    <a href="https://www.linkedin.com/in/ruf10/">LinkedIn</a> | 
+    <a href="https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en">Google Scholar</a> |  
+    <a href="https://ruf10.github.io/CV_RuiFang.pdf">CV</a></p>
+  </div>
+
+</div>
+
+
 
 ### Services and leadership
 **As the president of the AWM (Association of Women in Mathematics) Pittsburgh Chapter**, I host monthly graduate student seminars, inviting speakers from around the world to promote equal opportunities and encourage women to pursue careers in mathematics. I also organize coffee chats and semester-end dinners to foster community and engagement. Additionally, I collaborate with the University of Pittsburgh's Girls' Summer Math Camp, inspiring girls from diverse backgrounds to become future mathematicians, engineers, and scientists. <br />
