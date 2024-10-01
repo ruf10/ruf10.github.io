@@ -11,15 +11,16 @@ I’m Rui Fang, a Ph.D. candidate in Mathematics at the University of Pittsburgh
 
 My research focuses on enhancing the accuracy of fluid flow simulations by developing advanced methods, such as penalty ensembles for the Navier-Stokes equations. I am particularly excited about integrating machine learning techniques into these models to drive innovative solutions. As an Andrew Mellon Fellow for 2023-2024, I am dedicated to pushing the boundaries of scientific computing and advancing fluid dynamics research. <br />
 ### Research interest
-
+<img align="right" width="300" src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" />
+<img align="left" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" /> 
 ### Education
-**Ph.D. in Mathematics, 2019-Present** <br />
+**Ph.D. in Mathematics, 2019-Present** <br /> 
 University of Pittsburgh, PA, United States <br />
 Advisor: William J Layton <br />
 **Dual B.S. in Mathematics, 2015-2019** <br />
 University of Cincinnati, OH, United States <br />
-Capital Normal University, Beijing, China
-
+Capital Normal University, Beijing, China <br />
+<img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" />
 ### Connect with me
 [ruf10@pitt.edu](mailto:ruf10@pitt.edu) |  [Linkedin](https://www.linkedin.com/in/ruf10/)  |  [Google Scholar](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en)  |  [CV](https://ruf10.github.io/CV_RuiFang.pdf)
 
@@ -31,9 +32,9 @@ Capital Normal University, Beijing, China
 
 ### Activities
 Carnegie Mellon Ballroom Club: [Instgram](https://www.instagram.com/cmuballroom?igsh=NDlyZmZubTY0eXhy) <br />
-<img align="" width="300" src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" />
-<img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" />
-<img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" /> 
+
+
+
 
 
 
