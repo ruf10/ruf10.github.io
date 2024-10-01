@@ -25,7 +25,7 @@ Citation: Rui Fang et al 2020 J. Phys.: Conf. Ser. 1525 012079. [Full text](http
 
 ### Conference Talks
 - Upcoming: JMM, Seattle, 2025, "Recent Advancements in the Numerical Analysis of Nonlinear Partial Differential Equations”.
-- Upcoming: The 42nd Southeastern-Atlantic Regional Conference on Differential Equations (SEARCDE), West Virginia University, Morgantown, Nov 9-10, 2024.
+- Upcoming: The 42nd Southeastern-Atlantic Regional Conference on Differential Equations (SEARCDE), West Virginia University, Morgantown, November 9-10, 2024.
 -	Mathematical Models and Numerical Methods for Multi-Physics Systems, Pittsburgh, PA, May 2024.
 -	Finite Element Circus, Brown University, Providence, RI, April 2024.
 - Association for Women in Mathematics, University of Pittsburgh, Pittsburgh, PA, September 2023.
