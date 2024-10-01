@@ -22,7 +22,7 @@ Capital Normal University, Beijing, China <br />
 ### Connect with me
 [ruf10@pitt.edu](mailto:ruf10@pitt.edu) |  [Linkedin](https://www.linkedin.com/in/ruf10/)  |  [Google Scholar](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en)  |  [CV](https://ruf10.github.io/CV_RuiFang.pdf) 
 
-<img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" />  <img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" />  <img align="" width="200" src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" />
+<img align="" width="200" height="250" src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" />  <img align="" width="200" height="250" src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" />  <img align="" width="200" height="250" src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" />
 
 
 ### Services and leadership
