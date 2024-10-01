@@ -5,11 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
-
-**Rui Fang**, Numerical Analysis of Locally Adaptive Penalty Methods For The Navier-Stokes Equations, Journal of Scientific Computing, In revision, 2024. <br />
-[Download paper here](
-https://arxiv.org/abs/2404.11712
-)
+https://arxiv.org/pdf/2407.10012
+**Rui Fang**, Numerical Analysis of Locally Adaptive Penalty Methods for the Navier-Stokes Equations, Journal of Scientific Computing, under revision, 2024. <br />
+[Download paper here](https://arxiv.org/abs/2404.11712)
 
 Weiwei Han, **Rui Fang**, and William Layton, Numerical analysis of the 1/2-equation model of turbulence, 2024. <br />
 
