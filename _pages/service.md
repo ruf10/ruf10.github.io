@@ -19,20 +19,20 @@ I host monthly graduate student seminars, inviting speakers worldwide to promote
 - Girls Summer Math Camp at the University of Pittsburgh <br />
 https://www.mathematics.pitt.edu/events/girlsatPitt <br />
 August 12 - August 16, 2024 <br />
-*Media*: [Pitt News](https://www.as.pitt.edu/news/empowering-future-mathematicians-all-girls-summer-math-camp-prepares-young-women-future-steam)
+*Media*: [Pitt News](https://www.as.pitt.edu/news/empowering-future-mathematicians-all-girls-summer-math-camp-prepares-young-women-future-steam).
 
   <img src="{{ site.url }}{{ site.baseurl }}/images/SummerCampPic2.jpeg" style="width: 300px; object-fit: cover; margin: 10px; "/>
 
 - AWM Pitt Chapter honored at the 2023 MAA MathFest<br />
-  *Media*: [Awards](https://awm-math.org/awards/awm-student-chapter-awards/2023-student-chapter-awards/)
+  *Media*: [Awards](https://awm-math.org/awards/awm-student-chapter-awards/2023-student-chapter-awards/).
   
 
 ## Student leader of the Mathematics GSO (Graduate Student Organization)
 I coordinate open houses for prospective graduate students and organize social events such as the fall picnic, end-of-year party, and summer gatherings. I also address graduate student concerns about teaching and preliminary exams, serving as a bridge between students and the faculty.<br />
-For more info please check [website](https://www.mathematics.pitt.edu/graduate/organizations/mathematics-graduate-student-organization-gso) <br />
+For more info please check [website](https://www.mathematics.pitt.edu/graduate/organizations/mathematics-graduate-student-organization-gso). <br />
 
 *Fall picnic photo:<br />*
 <img src="{{ site.url }}{{ site.baseurl }}/images/mathGSO_picnic.jpg" style="width: 300px; object-fit: cover; margin: 10px; "/>
 
 ## Referee for the Pittsburgh Interdisciplinary Mathematics Review (PIMR), a peer-reviewed open-access journal
-For more info please check [website](https://pimr.pitt.edu/pimr)
+For more info please check [website](https://pimr.pitt.edu/pimr).
