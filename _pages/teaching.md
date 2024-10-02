@@ -4,11 +4,12 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+{% include base_path %}
 ## Teaching Assistant at the University of Pittsburgh (Fall 2019 - Spring 2023)
 - Calculus I, II, and III
 - Business Calculus
 - Graduate Linear Algebra
-{% include base_path %}
+
 ## Student Feedback on My Teaching
 I strive to make learning accessible and enjoyable for my students. Here’s what some of them have shared about my teaching:<br />
 "Rui teaches in a way that everyone understands!" <br />
