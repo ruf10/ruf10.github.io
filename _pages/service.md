@@ -14,7 +14,7 @@ https://www.mathematics.pitt.edu/events/girlsatPitt <br />
 August 12 - August 16, 2024 <br />
 *Media*: [Pitt News](https://www.as.pitt.edu/news/empowering-future-mathematicians-all-girls-summer-math-camp-prepares-young-women-future-steam)
 <div style="text-align: center;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" style="width: 200px; height: 150px; object-fit: cover; margin: 10px;" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/SummerCampPic2.jpeg" style="width: 300px; object-fit: cover; margin: 10px;" />
 </div>
 ## Student leader of the Mathematics GSO (Graduate Student Organization)** <br />
 I coordinate open houses for prospective graduate students and organize social events such as the fall picnic, end-of-year party, and summer gatherings. I also address graduate student concerns about teaching and preliminary exams, serving as a bridge between students and the faculty.
