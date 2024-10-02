@@ -15,18 +15,11 @@ I host monthly graduate student seminars, inviting speakers worldwide to promote
   For more info please check [seminar series website](https://www.mathematics.pitt.edu/content/pitt-awm-student-seminar-series).
   
   
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        <p>Girls Summer Math Camp at the University of Pittsburgh <br />
-        <a href="https://www.mathematics.pitt.edu/events/girlsatPitt">https://www.mathematics.pitt.edu/events/girlsatPitt</a> <br />
-        August 12 - August 16, 2024 <br />
-        </p>
-        <p>
-            <strong>Media</strong>: <a href="https://www.as.pitt.edu/news/empowering-future-mathematicians-all-girls-summer-math-camp-prepares-young-women-future-steam">Pitt News</a>
-        </p>
-    </div>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/SummerCampPic2.jpeg" style="width: 300px; object-fit: cover; margin-left: 10px;" />
-</div>
+- Girls Summer Math Camp at the University of Pittsburgh <br />
+https://www.mathematics.pitt.edu/events/girlsatPitt <br />
+August 12 - August 16, 2024 <br />
+*Media*: [Pitt News](https://www.as.pitt.edu/news/empowering-future-mathematicians-all-girls-summer-math-camp-prepares-young-women-future-steam)
+<img src="{{ site.url }}{{ site.baseurl }}/images/SummerCampPic2.jpeg" style="width: 300px; object-fit: cover; margin: 10px; " align="right" />
 
 
 - AWM Pitt Chapter honored at the 2023 MAA MathFest<br />
