@@ -6,6 +6,9 @@ author_profile: true
 ---
 {% include base_path %}
 
+## Referee for the Pittsburgh Interdisciplinary Mathematics Review (PIMR), a peer-reviewed open-access journal
+For more info please check [website](https://pimr.pitt.edu/pimr).
+
 ## President of the AWM (Association of Women in Mathematics) Pittsburgh Chapter
 I host monthly graduate student seminars, inviting speakers worldwide to promote equal opportunities and encourage women to pursue careers in mathematics. I also organize coffee chats and semester-end dinners to foster community and engagement. Additionally, I collaborate with the University of Pittsburgh's Girls' Summer Math Camp, inspiring girls from diverse backgrounds to become future mathematicians, engineers, and scientists.
 
@@ -34,5 +37,4 @@ For more info please check [website](https://www.mathematics.pitt.edu/graduate/o
 *Fall picnic photo:<br />*
 <img src="{{ site.url }}{{ site.baseurl }}/images/mathGSO_picnic.jpg" style="width: 300px; object-fit: cover; margin: 10px; "/>
 
-## Referee for the Pittsburgh Interdisciplinary Mathematics Review (PIMR), a peer-reviewed open-access journal
-For more info please check [website](https://pimr.pitt.edu/pimr).
+
