@@ -14,7 +14,7 @@ author_profile: true
 ### What my students say about my teaching:
 <img width="800" align="center" alt="Screenshot 2023-01-21 at 3 39 43 PM" src="https://user-images.githubusercontent.com/66021647/213886380-b20e5872-757e-4d69-97a3-ebdcf11fa350.png">
 
-## Teaching Assistant (Fall 2019 - Spring 2023)
+## Teaching Assistant at the University of Pittsburgh (Fall 2019 - Spring 2023)
 - Calculus I, II, and III
 - Business Calculus
 - Graduate Linear Algebra
