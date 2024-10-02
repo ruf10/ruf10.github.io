@@ -1,5 +1,6 @@
 # main links links
 main:
+
   - title: "Publications"
     url: /publications/
     
@@ -9,8 +10,6 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Service and Leadership"
-   url: /service/
   
   - title: "Skills/Courses"
     url: /courseworkandskills/
