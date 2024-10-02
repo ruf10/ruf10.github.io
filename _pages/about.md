@@ -14,8 +14,7 @@ I’m Rui Fang, a Ph.D. candidate in Mathematics at the University of Pittsburgh
 <div style="flex: 1; padding: 2px;">
 <h3>Research Interests</h3>
 <ul>
-  <li>Numerical Analysis and Scientific Computing</li>
-  <li>Computational Fluid Dynamics, Finite Element Methods</li>
+  <li>Numerical Analysis and Scientific Computing, Computational Fluid Dynamics, Finite Element Methods</li>
   <li>Ensemble Simulation, Penalty Methods, Turbulence Modeling</li>
   <li>Data Assimilation, Nudging, Monte Carlo</li>
   <li>Machine Learning, Deep Learning, Probabilistic Graphical Models, Deep Reinforcement Learning</li>
