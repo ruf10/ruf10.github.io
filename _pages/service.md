@@ -7,8 +7,14 @@ author_profile: true
 {% include base_path %}
 
 ## President of the AWM (Association of Women in Mathematics) Pittsburgh Chapter
-I host monthly graduate student seminars, inviting speakers from around the world to promote equal opportunities and encourage women to pursue careers in mathematics. I also organize coffee chats and semester-end dinners to foster community and engagement. Additionally, I collaborate with the University of Pittsburgh's Girls' Summer Math Camp, inspiring girls from diverse backgrounds to become future mathematicians, engineers, and scientists.
+I host monthly graduate student seminars, inviting speakers worldwide to promote equal opportunities and encourage women to pursue careers in mathematics. I also organize coffee chats and semester-end dinners to foster community and engagement. Additionally, I collaborate with the University of Pittsburgh's Girls' Summer Math Camp, inspiring girls from diverse backgrounds to become future mathematicians, engineers, and scientists.
 
+- Pitt AWM Student Seminar Series <br />
+  Talks are video-recorded and available on our [YouTube channel](https://www.youtube.com/channel/UCtbXkHiM0NS_cS2kTR0uNwg) (subject to each speaker's permission). <br />
+  If you wish to give a talk, please contact Rui Fang at: ruf10@pitt.edu. <br />
+  For more info please check [seminar series website](https://www.mathematics.pitt.edu/content/pitt-awm-student-seminar-series).
+  
+  
 - Girls Summer Math Camp at the University of Pittsburgh <br />
 https://www.mathematics.pitt.edu/events/girlsatPitt <br />
 August 12 - August 16, 2024 <br />
