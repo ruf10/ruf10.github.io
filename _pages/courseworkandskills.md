@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Skills/Courses"
+title: "Technical Skills"
 permalink: /courseworkandskills/
 author_profile: true
 ---
