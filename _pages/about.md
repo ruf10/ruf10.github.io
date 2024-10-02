@@ -41,8 +41,7 @@ Capital Normal University, Beijing, China</p>
 </div>
 </div>
 
-### Connect with Me
-[ruf10@pitt.edu](mailto:ruf10@pitt.edu) | [LinkedIn](https://www.linkedin.com/in/ruf10/) | [Google Scholar](https://scholar.google.com/citations?user=W9GY0i0AAAAJ&hl=en) | [CV](https://ruf10.github.io/CV_RuiFang.pdf)
+### Download my [CV](https://ruf10.github.io/CV_RuiFang.pdf)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" style="width: 200px; height: 150px; object-fit: cover;" />
 <img src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" style="width: 200px; height: 150px; object-fit: cover;" />
