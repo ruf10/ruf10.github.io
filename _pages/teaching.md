@@ -14,11 +14,7 @@ author_profile: true
 ### What my students say about my teaching:
 <img width="800" align="center" alt="Screenshot 2023-01-21 at 3 39 43 PM" src="https://user-images.githubusercontent.com/66021647/213886380-b20e5872-757e-4d69-97a3-ebdcf11fa350.png">
 
-## Teaching Spring 2023: Calculus II and Calculus III
-Office: Room 615 Thackerary Hall <br />
-Reciatation/Lab: Tuesday/Thursday 9 am - 9:50 am, 11 am - 11:50 am, 12 pm -12:50 pm <br />
-Office hour: Monday/Wedensday 12 pm -1 pm <br />
-Math Assistant Center: Friday 10 am-11 am <br />
-
-## Past teachings since Fall 2019
-Calculus I, II, Business Calculus, Graduate Linear algebra for  linear algebra preliminary exam.
+## Teaching Assistant (Fall 2019 - Spring 2023)
+- Calculus I, II, and III
+- Business Calculus
+- Graduate Linear Algebzra
