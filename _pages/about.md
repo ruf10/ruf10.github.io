@@ -10,6 +10,29 @@ redirect_from:
 I’m Rui Fang, a Ph.D. candidate in Mathematics at the University of Pittsburgh, working under the guidance of Prof. William Layton ([webpage](https://www.mathematics.pitt.edu/people/ant-73)) in the numerical analysis group.
 
 My research focuses on enhancing the accuracy of fluid flow simulations by developing advanced methods, such as penalty ensembles for the Navier-Stokes equations. I am particularly excited about integrating machine learning techniques into these models to drive innovative solutions. As an Andrew Mellon Fellow for 2023-2024, I am dedicated to pushing the boundaries of scientific computing and advancing fluid dynamics research. <br />
+
+<div style="display: flex;">
+
+  <!-- Left Column: Research Interests -->
+  <div style="flex: 1; padding-right: 20px;">
+    ### Research Interests
+    My research focuses on enhancing the accuracy of fluid flow simulations by developing advanced methods, such as penalty ensembles for the Navier-Stokes equations. I am particularly excited about integrating machine learning techniques into these models to drive innovative solutions. As an Andrew Mellon Fellow for 2023-2024, I am dedicated to pushing the boundaries of scientific computing and advancing fluid dynamics research.
+  </div>
+
+  <!-- Right Column: Education -->
+  <div style="flex: 1;">
+    ### Education
+    **Ph.D. in Mathematics, 2019-Present**  
+    University of Pittsburgh, PA, United States  
+    Advisor: William J Layton  
+
+    **Dual B.S. in Mathematics, 2015-2019**  
+    University of Cincinnati, OH, United States  
+    Capital Normal University, Beijing, China
+  </div>
+
+</div>
+
 ### Research interest
 
 ### Education
