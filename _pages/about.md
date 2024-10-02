@@ -17,7 +17,7 @@ I’m Rui Fang, a Ph.D. candidate in Mathematics at the University of Pittsburgh
 - Awards: Andrew W. Mellon Fellow 2023-2024.
 - 2nd Place in 3-Minute Thesis competition, Math Department, University of Pittsburgh.
 - President of AWM (Association of Women in Mathematics), Officer of Math GSO (Graduate Student Organization).
-- Referee of Pittsburgh Interdisciplinary Mathematics Review (PIMR),peer-reviewed open-access journal ([Website](https://pimr.pitt.edu/pimr/)).
+- Referee of Pittsburgh Interdisciplinary Mathematics Review (PIMR), peer-reviewed open-access journal ([Website](https://pimr.pitt.edu/pimr/)).
 
 <div style="display: flex;">
 <div style="flex: 1; padding: 2px;">
