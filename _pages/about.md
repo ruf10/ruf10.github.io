@@ -15,18 +15,30 @@ My research focuses on enhancing the accuracy of fluid flow simulations by devel
 
   <!-- Left Column: Research Interests -->
   <div style="flex: 1; padding-right: 20px;">
-    ### Research Interests
-    My research focuses on enhancing the accuracy of fluid flow simulations by developing advanced methods, such as penalty ensembles for the Navier-Stokes equations. I am particularly excited about integrating machine learning techniques into these models to drive innovative solutions. As an Andrew Mellon Fellow for 2023-2024, I am dedicated to pushing the boundaries of scientific computing and advancing fluid dynamics research.
+      ### Research Interests
+    
+    - Numerical Analysis and Scientific Computing
+    - Computational Fluid Dynamics
+    - Finite Element Methods
+    - Ensemble Simulation
+    - Penalty Methods
+    - Turbulence modeling
+    - Machine Learning
+    - Deep Learning
+    - Probabilistic Graphical Models
+    - Deep reinforcement learning 
+      
   </div>
 
   <!-- Right Column: Education -->
   <div style="flex: 1;">
-    ### Education
-    **Ph.D. in Mathematics, 2019-Present**  
+         ### Education 
+    
+    Ph.D. in Mathematics, 2019-Present 
     University of Pittsburgh, PA, United States  
     Advisor: William J Layton  
 
-    **Dual B.S. in Mathematics, 2015-2019**  
+    Dual B.S. in Mathematics, 2015-2019
     University of Cincinnati, OH, United States  
     Capital Normal University, Beijing, China
   </div>
