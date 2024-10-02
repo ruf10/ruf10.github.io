@@ -17,4 +17,4 @@ author_profile: true
 ## Teaching Assistant (Fall 2019 - Spring 2023)
 - Calculus I, II, and III
 - Business Calculus
-- Graduate Linear Algebzra
+- Graduate Linear Algebra
