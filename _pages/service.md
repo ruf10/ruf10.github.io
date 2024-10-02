@@ -29,6 +29,7 @@ August 12 - August 16, 2024 <br />
   
 
 ## Student leader of the Mathematics GSO (Graduate Student Organization)
-I coordinate open houses for prospective graduate students and organize social events such as the fall picnic, end-of-year party, and summer gatherings. I also address graduate student concerns about teaching and preliminary exams, serving as a bridge between students and the faculty.
+I coordinate open houses for prospective graduate students and organize social events such as the fall picnic, end-of-year party, and summer gatherings. I also address graduate student concerns about teaching and preliminary exams, serving as a bridge between students and the faculty.<br />
+For more info please check [website](https://www.mathematics.pitt.edu/graduate/organizations/mathematics-graduate-student-organization-gso)
 
 ## Referee for the Pittsburgh Interdisciplinary Mathematics Review (PIMR), a peer-reviewed open-access journal**
