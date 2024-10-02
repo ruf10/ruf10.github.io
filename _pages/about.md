@@ -12,7 +12,7 @@ I’m Rui Fang, a Ph.D. candidate in Mathematics at the University of Pittsburgh
 
 ### Summary
 - Improved the predictability, accuracy, and efficiency of fluid flow simulations by addressing data uncertainty and the chaotic behavior of flows.
-- Authored 3 solo papers and 4 co-authored papers (https://www.researchgate.net/profile/Rui-Fang-39)
+- Authored 3 solo papers and 4 co-authored papers ([Research Gate](https://www.researchgate.net/profile/Rui-Fang-39)).
 - Delivered 4 conference talks in the United States and internationally. 
 - Awards: Andrew W. Mellon Fellow 2023-2024.
 - 2nd Place in 3-Minute Thesis competition, Math Department, University of Pittsburgh.
