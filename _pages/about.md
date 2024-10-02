@@ -10,29 +10,38 @@ redirect_from:
 I’m Rui Fang, a Ph.D. candidate in Mathematics at the University of Pittsburgh, working under the guidance of Prof. William Layton ([webpage](https://www.mathematics.pitt.edu/people/ant-73)) in the numerical analysis group.
 
 My research focuses on enhancing the accuracy of fluid flow simulations by developing advanced methods, such as penalty ensembles for the Navier-Stokes equations. I am particularly excited about integrating machine learning techniques into these models to drive innovative solutions. As an Andrew Mellon Fellow for 2023-2024, I am dedicated to pushing the boundaries of scientific computing and advancing fluid dynamics research. <br />
-::: {.column width="50%"}
-### Skills
-- Computational Fluid Dynamics
-- Finite Element Methods
-- Ensemble Simulation
-- Penalty Methods
-- Turbulence Modeling
-- Machine Learning
-- Deep Learning
-- Probabilistic Graphical Models
-- Deep Reinforcement Learning
-:::
+<div style="display: flex;">
 
-::: {.column width="50%"}
-### Education
-**Ph.D. in Mathematics, 2019-Present**  
-University of Pittsburgh, PA, United States  
-Advisor: William J. Layton  
+<div style="flex: 1; padding: 10px;">
+<h3>Research Interests </h3>
+<ul>
+  <li>Computational Fluid Dynamics</li>
+  <li>Finite Element Methods</li>
+  <li>Ensemble Simulation</li>
+  <li>Penalty Methods</li>
+  <li>Turbulence Modeling</li>
+  <li>Machine Learning</li>
+  <li>Deep Learning</li>
+  <li>Probabilistic Graphical Models</li>
+  <li>Deep Reinforcement Learning</li>
+</ul>
+</div>
 
-**Dual B.S. in Mathematics, 2015-2019**  
-University of Cincinnati, OH, United States  
-Capital Normal University, Beijing, China
-:::
+<div style="flex: 1; padding: 10px;">
+<h3>Education</h3>
+<p><strong>Ph.D. in Mathematics, 2019-Present</strong><br>
+University of Pittsburgh, PA, United States<br>
+Advisor: William J. Layton</p>
+
+<p><strong>Dual B.S. in Mathematics, 2015-2019</strong><br>
+University of Cincinnati, OH, United States<br>
+Capital Normal University, Beijing, China</p>
+</div>
+
+</div>
+
+
+
 
 <div style="display: flex;">
 
