@@ -13,14 +13,15 @@ I host monthly graduate student seminars, inviting speakers worldwide to promote
   Talks are video-recorded and available on our [YouTube channel](https://www.youtube.com/channel/UCtbXkHiM0NS_cS2kTR0uNwg) (subject to each speaker's permission). <br />
   If you wish to give a talk, please contact Rui Fang at: ruf10@pitt.edu. <br />
   For more info please check [seminar series website](https://www.mathematics.pitt.edu/content/pitt-awm-student-seminar-series).
-  
+
+  <img src="{{ site.url }}{{ site.baseurl }}/images/AWM Pitt Grad Seminar_Sep20_24.png" style="width: 200px; object-fit: cover; margin: 10px; "/>
   
 - Girls Summer Math Camp at the University of Pittsburgh <br />
 https://www.mathematics.pitt.edu/events/girlsatPitt <br />
 August 12 - August 16, 2024 <br />
 *Media*: [Pitt News](https://www.as.pitt.edu/news/empowering-future-mathematicians-all-girls-summer-math-camp-prepares-young-women-future-steam)
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/SummerCampPic2.jpeg" style="width: 200px; object-fit: cover; margin: 10px; "/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/SummerCampPic2.jpeg" style="width: 200px; object-fit: cover; margin: 10px; "/>
 
 
 - AWM Pitt Chapter honored at the 2023 MAA MathFest<br />
