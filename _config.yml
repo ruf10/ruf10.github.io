@@ -74,13 +74,13 @@ analytics:
 author:
   name             : "Rui Fang"
   avatar           : "profile.jpg"
-  bio              : "Math Ph.D. Candidate, University of Pittsburgh"
+  bio              : "Ph.D. Candidate in Mathematics, University of Pittsburgh"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=W9GY0i0AAAAJ"
   email            : "ruf10@pitt.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Rui-Fang-39"
   uri              :
   bitbucket        :
   codepen          :
