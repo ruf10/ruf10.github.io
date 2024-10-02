@@ -79,7 +79,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=W9GY0i0AAAAJ"
-  email: ruf10@pitt.edu            : "ruf10@pitt.edu"
+  email (ruf10@pitt.edu): "ruf10@pitt.edu"
   researchgate     : "https://www.researchgate.net/profile/Rui-Fang-39"
   uri              :
   bitbucket        :
