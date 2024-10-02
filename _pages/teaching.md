@@ -16,7 +16,7 @@ I strive to make learning accessible and enjoyable for my students. Here’s wha
 - "Rui explains complex concepts in a clear and supportive manner." 
 - "She is patient, encourages questions, and ensures everyone stays engaged." 
 
-**What My students Say:** <br />
+**What My Students Say:** <br />
 <img width="800" align="center" alt="Screenshot 2023-01-21 at 3 39 43 PM" src="https://user-images.githubusercontent.com/66021647/213886380-b20e5872-757e-4d69-97a3-ebdcf11fa350.png">
 
 
