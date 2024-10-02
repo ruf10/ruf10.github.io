@@ -6,6 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
-### Publications
-- Aytekin çıbık, **Rui Fang**, William Layton, and Farjana Siddiqua, "Adaptive Parameter Selection in Nudging Based Data Assimilation", Computer Methods in Applied Mechanics and Engineering, under revision, 2024. [Full text](https://arxiv.org/pdf/2407.18886)
-- **Rui Fang**, "Numerical Analysis of Penalty-based Ensemble Methods", Numerical Algorithms, under revision, 2024. [Full text](https://arxiv.org/pdf/2407.10012)
+**President of the AWM (Association of Women in Mathematics) Pittsburgh Chapter** <br />
+I host monthly graduate student seminars, inviting speakers from around the world to promote equal opportunities and encourage women to pursue careers in mathematics. I also organize coffee chats and semester-end dinners to foster community and engagement. Additionally, I collaborate with the University of Pittsburgh's Girls' Summer Math Camp, inspiring girls from diverse backgrounds to become future mathematicians, engineers, and scientists.
+
+**Student leader of the Mathematics GSO (Graduate Student Organization)** <br />
+I coordinate open houses for prospective graduate students and organize social events such as the fall picnic, end-of-year party, and summer gatherings. I also address graduate student concerns about teaching and preliminary exams, serving as a bridge between students and the faculty.
