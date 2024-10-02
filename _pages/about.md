@@ -40,10 +40,12 @@ University of Cincinnati, OH, United States<br>
 Capital Normal University, Beijing, China</p>
 </div>
 </div>
+<div style="text-align: center;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" style="width: 200px; height: 150px; object-fit: cover; margin: 10px;" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" style="width: 200px; height: 150px; object-fit: cover; margin: 10px;" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" style="width: 200px; height: 150px; object-fit: cover; margin: 10px;" />
+</div>
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" style="width: 200px; height: 150px; object-fit: cover;" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" style="width: 200px; height: 150px; object-fit: cover;" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" style="width: 200px; height: 150px; object-fit: cover;" />
 
 
 
