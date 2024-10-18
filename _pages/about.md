@@ -10,13 +10,16 @@ redirect_from:
 ---
 
 
-I’m Rui Fang, a Ph.D. candidate in Mathematics at the University of Pittsburgh, working under the guidance of Prof. William Layton ([webpage](https://www.mathematics.pitt.edu/people/ant-73)) in the numerical analysis group. My research focuses on enhancing the accuracy of fluid flow simulations by developing advanced methods, such as penalty ensembles for the Navier-Stokes equations. I am particularly excited about integrating machine learning techniques into these models to drive innovative solutions. As an Andrew Mellon Fellow for 2023-2024, I am dedicated to pushing the boundaries of scientific computing and advancing fluid dynamics research.
+I’m Rui Fang, a Ph.D. candidate in Mathematics at the University of Pittsburgh, working under the guidance of Prof. William Layton ([webpage](https://www.mathematics.pitt.edu/people/ant-73)) in the numerical analysis group. I develop accurate and efficient numerical algorithms to extend the predictability horizon for the simulation of turbulent flows by addressing data uncertainty and the chaotic behavior of flows. Advancements in these methods are essential for studying climate patterns, energy production, and global warming.
+
+
+My research interests include data simulation, machine learning, deep learning, probabilistic graphical models, deep reinforcement learning, numerical analysis, scientific computing, computational fluid dynamics, finite element methods, ensemble simulations, and turbulence modeling.
 
 <img align="right" width="300" src="{{ site.url }}{{ site.baseurl }}/images/von_karman_vortex.jpeg"/>
 
 ### Summary (Download my [CV](https://ruf10.github.io/CV_RuiFang.pdf))
-- Improved the predictability, accuracy, and efficiency of fluid flow simulations by addressing data uncertainty and the chaotic behavior of flows.
-- Authored 3 solo and 4 co-authored peer-reviewed publications ([Publications](https://ruf10.github.io/publications/), [Research Gate](https://www.researchgate.net/profile/Rui-Fang-39)).
+- Improved the predictability, accuracy, and efficiency of fluid flow simulations by addressing data uncertainty and flows' chaotic behavior.
+- Authored 7 peer-reviewed publications including 3 solo and 4 co-authored ([Publications](https://ruf10.github.io/publications/), [Research Gate](https://www.researchgate.net/profile/Rui-Fang-39)). One project on data assimilation will soon appear on arXiv.
 - Delivered 4 conference talks in the United States and internationally. 
 - Awards: Andrew W. Mellon Fellow 2023-2024.
 - 2nd Place in 3-Minute Thesis competition, Math Department, University of Pittsburgh.
