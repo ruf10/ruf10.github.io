@@ -6,6 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
+In addition to my research, I serve as president of the Association of Women in Mathematics (AWM) Pittsburgh Chapter, student officer for the Math Graduate Student Organization (GSO), referee for the Pittsburgh Interdisciplinary Mathematics Review (PIMR), an undergraduate peer-reviewed journal, and graduate student organizer for University of Pittsburgh High School Girls' Math Summer Camp. I actively promote diversity in mathematics, mentor the next generation, and foster a supportive academic community. I was honored as an Andrew Mellon Fellow for 2023-2024.
+
 ## Referee for the Pittsburgh Interdisciplinary Mathematics Review (PIMR), a peer-reviewed open-access journal
 For more info please check [website](https://pimr.pitt.edu/pimr).
 
@@ -14,7 +16,7 @@ I host monthly graduate student seminars, inviting speakers worldwide to promote
 
 - Pitt AWM Student Seminar Series <br />
   Talks are video-recorded and available on our [YouTube channel](https://www.youtube.com/channel/UCtbXkHiM0NS_cS2kTR0uNwg) (subject to each speaker's permission). <br />
-  If you wish to give a talk, please contact Rui Fang at: ruf10@pitt.edu. <br />
+  If you wish to give a talk, please contact me at: ruf10@pitt.edu. <br />
   For more info please check [seminar series website](https://www.mathematics.pitt.edu/content/pitt-awm-student-seminar-series).
 
   <img src="{{ site.url }}{{ site.baseurl }}/images/AWM Pitt Grad Seminar_Sep20_24.png" style="width: 300px; object-fit: cover; margin: 10px; "/>
