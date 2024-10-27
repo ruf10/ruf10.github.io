@@ -23,7 +23,7 @@ My research interests include data simulation, machine learning, deep learning, 
 - Delivered 4 conference talks in the United States and internationally. 
 - Awards: Andrew W. Mellon Fellow 2023-2024.
 - 2nd Place in 3-Minute Thesis competition, Math Department, University of Pittsburgh.
-- President of AWM (Association of Women in Mathematics), Officer of Math GSO (Graduate Student Organization).
+- President of AWM (Association for Women in Mathematics), Officer of Math GSO (Graduate Student Organization).
 - Referee for the Pittsburgh Interdisciplinary Mathematics Review (PIMR), a peer-reviewed open-access journal.
 
 <div style="display: flex;">
