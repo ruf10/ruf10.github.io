@@ -6,15 +6,15 @@ main:
     
   - title: "Research"
     url: /research/
-  
+
+- title: "Technical Skills"
+    url: /courseworkandskills/
+    
   - title: "Teaching"
     url: /teaching/
 
   - title: "Service and Leadership"
     url: /service/
-  
-  - title: "Technical Skills"
-    url: /courseworkandskills/
     
   - title: "CV"
     url: /CV_RuiFang.pdf
