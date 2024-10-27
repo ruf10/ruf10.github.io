@@ -17,8 +17,8 @@ My research interests include data simulation, machine learning, deep learning, 
 
 <img align="right" width="300" src="{{ site.url }}{{ site.baseurl }}/images/von_karman_vortex.jpeg"/>
 
-### Summary (Download my [CV](https://ruf10.github.io/CV_RuiFang.pdf))
-- Improved the predictability, accuracy, and efficiency of fluid flow simulations by addressing data uncertainty and flows' chaotic behavior.
+### Summary (Download my [CV](https://ruf10.github.io/RuiFang_CV_postdoc.pdf))
+- Improved fluid flow simulation predictability, accuracy, and efficiency by addressing data uncertainty and flows' chaotic behavior.
 - Authored 7 peer-reviewed publications including 3 solo and 4 co-authored ([Publications](https://ruf10.github.io/publications/), [Research Gate](https://www.researchgate.net/profile/Rui-Fang-39)). One project on data assimilation will soon appear on arXiv.
 - Delivered 4 conference talks in the United States and internationally. 
 - Awards: Andrew W. Mellon Fellow 2023-2024.
