@@ -31,7 +31,7 @@ My research interests include data simulation, machine learning, deep learning, 
 <h3>Research Interests</h3>
 <ul>
   <li>Numerical Analysis and Scientific Computing, Computational Fluid Dynamics, Finite Element Methods. </li>
-  <li>Ensemble Simulation, Monte Carlo, Penalty Methods, Turbulence Modeling, Data Assimilation, Nudging. </li>
+  <li> Data Assimilation, Ensemble Simulation, Monte Carlo, Penalty Methods, Turbulence Modeling. </li>
   <li>Machine Learning, Deep Learning, Probabilistic Graphical Models, Deep Reinforcement Learning. </li>
 </ul>
 </div>
