@@ -19,7 +19,7 @@ My research interests include data assimilation, machine learning, deep learning
 
 ### Summary (Download my [CV](https://ruf10.github.io/RuiFang_CV_postdoc_Nov7_2024.pdf))
 - Improved fluid flow simulation predictability, accuracy, and efficiency by addressing data uncertainty and flows' chaotic behavior.
-- Authored 7 peer-reviewed publications including 3 solo and 4 co-authored ([Publications](https://ruf10.github.io/publications/), [Research Gate](https://www.researchgate.net/profile/Rui-Fang-39)). One project on data assimilation will soon appear on arXiv.
+- Authored 7 peer-reviewed publications including 3 solo, with 2 are currently under review ([Publications](https://ruf10.github.io/publications/), [Research Gate](https://www.researchgate.net/profile/Rui-Fang-39)). One project on data assimilation will soon appear on arXiv.
 - Delivered 4 conference talks in the United States and internationally. 
 - Awards: Andrew W. Mellon Fellow 2023-2024.
 - 2nd Place in 3-Minute Thesis competition, Math Department, University of Pittsburgh.
