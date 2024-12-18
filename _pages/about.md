@@ -9,7 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-
 I’m Rui Fang, a Ph.D. candidate in Mathematics at the University of Pittsburgh, working under the guidance of Prof. William Layton ([webpage](https://www.mathematics.pitt.edu/people/ant-73)) in the numerical analysis group. I develop accurate and efficient numerical algorithms to extend the predictability horizon for the simulation of turbulent flows by addressing data uncertainty and the chaotic behavior of flows. Advancements in these methods are essential for studying climate patterns, energy production, and global warming.
 
 
