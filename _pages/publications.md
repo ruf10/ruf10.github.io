@@ -22,10 +22,11 @@ Citation: Rui Fang et al 2020 J. Phys.: Conf. Ser. 1525 012079. [Full text](http
 
 
 ### Conference Talks
-1. Upcoming: JMM, Seattle, 2025, "Recent Advancements in the Numerical Analysis of Nonlinear Partial Differential Equations”.
-2. The 42nd Southeastern-Atlantic Regional Conference on Differential Equations (SEARCDE), West Virginia University, Morgantown, November 9-10, 2024.
-3. Mathematical Models and Numerical Methods for Multi-Physics Systems, Pittsburgh, PA, May 2024.
-4. Finite Element Circus, Brown University, Providence, RI, April 2024.
-5. Association for Women in Mathematics, University of Pittsburgh, Pittsburgh, PA, September 2023.
-6. Applied Mathematics, Modeling and Computational Science, Waterloo, ON, Aug 2023.
+1. Upcoming: 2025 SIAM Annual Meeting (AN25), Montréal, Québec, Canada, Traveling Award by the Association for Women in Mathematics under NSF DMS-2113506 (up to $2300).
+2. Upcoming: JMM, Seattle, 2025, "Recent Advancements in the Numerical Analysis of Nonlinear Partial Differential Equations”, Traveling Award by the American Mathematical Society ($1430).
+3. The 42nd Southeastern-Atlantic Regional Conference on Differential Equations (SEARCDE), West Virginia University, Morgantown, November 9-10, 2024.
+4. Mathematical Models and Numerical Methods for Multi-Physics Systems, Pittsburgh, PA, May 2024.
+5. Finite Element Circus, Brown University, Providence, RI, April 2024.
+6. Association for Women in Mathematics, University of Pittsburgh, Pittsburgh, PA, September 2023.
+7. Applied Mathematics, Modeling and Computational Science, Waterloo, ON, Aug 2023.
 
