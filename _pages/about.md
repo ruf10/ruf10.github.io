@@ -17,14 +17,16 @@ My research interests include data assimilation, machine learning, deep learning
 
 <img align="right" width="300" src="{{ site.url }}{{ site.baseurl }}/images/von_karman_vortex.jpeg"/>
 
-### Summary (Download my [CV](https://ruf10.github.io/RuiFang_CV_postdoc_Nov10_2024.pdf)) 
+### Summary (Download my [CV](https://ruf10.github.io/RuiFang_CV_postdoc_Dec17_2024.pdf)) 
 - Improved fluid flow simulation predictability, accuracy, and efficiency by addressing data uncertainty and flows' chaotic behavior.
 - Authored 7 peer-reviewed publications including 3 solo, with 2 are currently under review ([Publications](https://ruf10.github.io/publications/), [Research Gate](https://www.researchgate.net/profile/Rui-Fang-39)). One project on data assimilation will soon appear on arXiv.
-- Delivered 4 conference talks in the United States and internationally. 
+- Delivered 5 conference talks in the United States and internationally. 
 - Awards: Andrew W. Mellon Fellow 2023-2024.
 - 2nd Place in 3-Minute Thesis competition, Math Department, University of Pittsburgh.
 - President of AWM (Association for Women in Mathematics), Officer of Math GSO (Graduate Student Organization).
 - Referee for the Pittsburgh Interdisciplinary Mathematics Review (PIMR), a peer-reviewed open-access journal.
+- 2025 Joint Mathematics Meetings Graduate Student Travel Grant from the American Mathematical Society ($1430).
+- 2025 SIAM Annual Meeting (AN25), Montréal, Québec, Canada, Traveling Award by the Association for Women in Mathematics under NSF DMS-2113506 (up to $2300).
 
 <div style="display: flex;">
 <div style="flex: 1; padding: 2px;">
