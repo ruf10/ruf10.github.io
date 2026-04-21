@@ -8,8 +8,19 @@ author_profile: true
 
 In addition to my research, I serve as president of the Association of Women in Mathematics (AWM) Pittsburgh Chapter, student officer for the Math Graduate Student Organization (GSO), referee for the Pittsburgh Interdisciplinary Mathematics Review (PIMR), an undergraduate peer-reviewed journal, and graduate student organizer for University of Pittsburgh High School Girls' Math Summer Camp. I actively promote diversity in mathematics, mentor the next generation, and foster a supportive academic community. I was honored as an Andrew Mellon Fellow for 2023-2024.
 
-## Referee for the Pittsburgh Interdisciplinary Mathematics Review (PIMR), a peer-reviewed open-access journal
+## SERVICES
+# Academics Services
+•	Association for Women in Mathematics (AWM), Pittsburgh Chapter, University of Pittsburgh
+President 2024 – 2025, Vice-President 2023 – 2024, Treasurer 2022 – 2023
+https://www.mathematics.pitt.edu/content/pitt-awm-student-seminar-series.
+•	Mathematics Graduate Student Organization (Math GSO), University of Pittsburgh
+Student Officer 2020 – 2025
+
+# Refereeing Services
+•	Reviewer for Journal of Numerical Mathematics, Numerical Algorithms, Pittsburgh Interdisciplinary Mathematics Review (managed by undergrad student）
 For more info please check [website](https://pimr.pitt.edu/pimr).
+
+
 
 ## President of the AWM (Association of Women in Mathematics) Pittsburgh Chapter
 I host monthly graduate student seminars, inviting speakers worldwide to promote equal opportunities and encourage women to pursue careers in mathematics. I also organize coffee chats and semester-end dinners to foster community and engagement. Additionally, I collaborate with the University of Pittsburgh's Girls' Summer Math Camp, inspiring girls from diverse backgrounds to become future mathematicians, engineers, and scientists.
