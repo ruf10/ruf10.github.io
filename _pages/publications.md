@@ -23,11 +23,15 @@ author_profile: true
 
 
 ### Conference Talks
-1. Upcoming: 2025 SIAM Annual Meeting (AN25), Montréal, Québec, Canada, Traveling Award by the Association for Women in Mathematics under NSF DMS-2113506 (up to $2300).
-2. Upcoming: JMM, Seattle, 2025, "Recent Advancements in the Numerical Analysis of Nonlinear Partial Differential Equations”, Traveling Award by the American Mathematical Society ($1430).
-3. The 42nd Southeastern-Atlantic Regional Conference on Differential Equations (SEARCDE), West Virginia University, Morgantown, November 9-10, 2024.
-4. Mathematical Models and Numerical Methods for Multi-Physics Systems, Pittsburgh, PA, May 2024.
-5. Finite Element Circus, Brown University, Providence, RI, April 2024.
-6. Association for Women in Mathematics, University of Pittsburgh, Pittsburgh, PA, September 2023.
-7. Applied Mathematics, Modeling and Computational Science, Waterloo, ON, Aug 2023.
+1.	Recent Advancements in Numerical Methods for Fluid Dynamics, Joint Mathematics Meetings (JMM), Washington, DC, 2026.
+2.	The Ohio State University Computational Math Seminar, Columbus, OH, October 30, 2025, 
+3.	Frontiers in Applied Analysis, Carnegie Mellon University, Pittsburgh, PA, June 3-6, 2025.
+4.	Recent Advancements in the Numerical Analysis of Nonlinear Partial Differential Equations, Joint Mathematics Meetings (JMM), Seattle, 2025.
+5.	The 42nd Southeastern-Atlantic Regional Conference on Differential Equations (SEARCDE), West Virginia University, Morgantown, November 9-10, 2024.
+6.	Mathematical Models and Numerical Methods for Multi-Physics Systems, Pittsburgh, PA, May 2024.
+7.	Finite Element Circus, Brown University, Providence, RI, April 2024.
+8.	Association for Women in Mathematics, University of Pittsburgh, Pittsburgh, PA, September 2023.
+9.	The VI AMMCS (Applied Mathematics, Modeling and Computational Science) International Conference, Waterloo, ON, Aug 2023.
+<img width="468" height="260" alt="image" src="https://github.com/user-attachments/assets/2e74c771-b5f1-4610-bb32-07317d36a5dc" />
+
 
