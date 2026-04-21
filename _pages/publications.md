@@ -10,7 +10,7 @@ author_profile: true
 
 1.	A. Çıbık, **R. Fang**, and W. Layton, “Modular data assimilation for flow prediction,” Numerical Methods for Partial Differential Equations, vol. 42, no. 1, e70066, 2026, https://doi.org/10.1002/num.70066.
 2.	**R. Fang**, “Numerical analysis of penalty-based ensemble methods,” Numerical Algorithms, vol. 101, pp. 509–542, 2026, https://doi.org/10.1007/s11075-025-02014-y.
-3.	A. Çıbık, **R. Fang**, W. Layton, and F. Siddiqua, “Data assimilation with model errors,” Computers & Mathematics with Applications, rev. submitted, 2025, https://arxiv.org/abs/2504.16291.
+3.	A. Çıbık, **R. Fang**, W. Layton, and F. Siddiqua, “Data assimilation with model errors,” Computers & Mathematics with Applications, accepted, 2026, https://arxiv.org/abs/2504.16291.
 4.	**R. Fang**, “Numerical analysis of locally adaptive penalty methods for the Navier–Stokes equations,” SeMA Journal, online first, 2025, https://doi.org/10.1007/s40324-025-00394-8.
 5.	A. Çıbık, **R. Fang**, W. Layton, and F. Siddiqua, “Adaptive parameter selection in nudging-based data assimilation,” Computer Methods in Applied Mechanics and Engineering, vol. 433, Art. 117526, 2025, https://doi.org/10.1016/j.cma.2024.117526.
 6.	**R. Fang**, W. Han, and W. Layton, “On a 1/2-equation model of turbulence,” International Journal of Numerical Analysis and Modeling, vol. 22, no. 2, pp. 139–156, 2025, https://doi.org/10.4208/ijnam2025-1007.
