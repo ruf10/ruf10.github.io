@@ -25,7 +25,7 @@ Turbulent flows are chaotic and hard to predict. My research develops smarter nu
 - President of AWM (Association for Women in Mathematics), Officer of Math GSO (Graduate Student Organization).
 - Referee for the Pittsburgh Interdisciplinary Mathematics Review (PIMR), a peer-reviewed open-access journal.
 - 2025 Joint Mathematics Meetings Graduate Student Travel Grant from the American Mathematical Society ($1430).
-- 2025 SIAM Annual Meeting (AN25), Montréal, Québec, Canada, Traveling Award by the Association for Women in Mathematics under NSF DMS-2113506 (up to $2300).
+
 
 <div style="display: flex;">
 <div style="flex: 1; padding: 2px;">
