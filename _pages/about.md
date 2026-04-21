@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m **Rui Fang**, a Zassenhaus Assistant Professor in the Department of Mathematics at The Ohio State University (starting Aug. 2025). I completed my Ph.D. in Mathematics at the University of Pittsburgh under the guidance of Prof. William Layton ([webpage](https://www.mathematics.pitt.edu/people/ant-73)). 
+I’m **Rui Fang**, a Zassenhaus Assistant Professor in the Department of Mathematics at The Ohio State University (since Aug. 2025). I completed my Ph.D. in Mathematics at the University of Pittsburgh under the guidance of Prof. William Layton ([webpage](https://www.mathematics.pitt.edu/people/ant-73)). 
 
 Turbulent flows are chaotic and hard to predict. My research develops smarter numerical methods — combining data assimilation, ensemble simulations, machine learning, and structure-preserving algorithms — to extend how far into the future we can trust flow simulations. This helps scientists study climate patterns, design energy systems, and model complex physical phenomena.
 
