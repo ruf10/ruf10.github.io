@@ -7,18 +7,19 @@ author_profile: true
 {% include base_path %}
 
 ### Publications
-1. Aytekin çıbık, **Rui Fang**, William Layton, and Farjana Siddiqua, "Adaptive Parameter Selection in Nudging Based Data Assimilation", Computer Methods in Applied Mechanics and Engineering, Published, 2024. [Full text](https://arxiv.org/pdf/2407.18886)
-2. **Rui Fang**, "Numerical Analysis of Penalty-based Ensemble Methods", Numerical Algorithms, Under review, 2024. [Full text](https://arxiv.org/pdf/2407.10012)
-3. **Rui Fang**, "Numerical Analysis of Locally Adaptive Penalty Methods for the Navier-Stokes Equations", Journal of Scientific Computing, Under review, 2024.
-[Full text](https://arxiv.org/abs/2404.11712)
-4. Weiwei Han, **Rui Fang**, and William Layton, "Numerical Analysis of the 1/2-equation Model of Turbulence", Physica D: Nonlinear Phenomena, Published, 2024. [Full text](https://arxiv.org/pdf/2405.19554)
-5. **Rui Fang**, Weiwei Han, William Layton, "On a 1/2-equation Model of Turbulence", International Journal of Numerical Analysis and Modeling, Accepted, 2024. [Full text](https://arxiv.org/pdf/2309.03358)
-6. **Rui Fang**, "Penalty Ensembles for Navier-Stokes with Random Initial Conditions and Forcing", the VI th AMMCS Conference, Waterloo, ON,
-Canada, Accepted, 2023. [Full text](https://arxiv.org/pdf/2309.12870v2)
-7. **Rui Fang**, Henry F Schreiner, Michael D Sokoloff, Constantin Weisser, and Mike Williams, "A Hybrid Deep Learning Approach to Vertexing", Journal of Physics. Conference Series, vol. 1525, no. 1, IOP Publishing, Apr. 2020, p. 12079–, doi:10.1088/1742-6596/1525/1/012079. <br />
-Citation: Rui Fang et al 2020 J. Phys.: Conf. Ser. 1525 012079. [Full text](https://doi.org/10.1088/1742-6596/1525/1/012079)
-9. Aytekin Çıbık, **Rui Fang**, William Layton, and Farjana Siddiqua, "Data Assimilation to Correct Model Errors," In preparation, 2024.<br />
+PUBLICATIONS
+1.	A. Çıbık, R. Fang, and W. Layton, “Modular data assimilation for flow prediction,” Numerical Methods for Partial Differential Equations, vol. 42, no. 1, e70066, 2026, https://doi.org/10.1002/num.70066.
+2.	R. Fang, “Numerical analysis of penalty-based ensemble methods,” Numerical Algorithms, vol. 101, pp. 509–542, 2026, https://doi.org/10.1007/s11075-025-02014-y.
+3.	A. Çıbık, R. Fang, W. Layton, and F. Siddiqua, “Data assimilation with model errors,” Computers & Mathematics with Applications, rev. submitted, 2025, https://arxiv.org/abs/2504.16291.
+4.	R. Fang, “Numerical analysis of locally adaptive penalty methods for the Navier–Stokes equations,” SeMA Journal, online first, 2025, https://doi.org/10.1007/s40324-025-00394-8.
+5.	A. Çıbık, R. Fang, W. Layton, and F. Siddiqua, “Adaptive parameter selection in nudging-based data assimilation,” Computer Methods in Applied Mechanics and Engineering, vol. 433, Art. 117526, 2025, https://doi.org/10.1016/j.cma.2024.117526.
+6.	R. Fang, W. Han, and W. Layton, “On a 1/2-equation model of turbulence,” International Journal of Numerical Analysis and Modeling, vol. 22, no. 2, pp. 139–156, 2025, https://doi.org/10.4208/ijnam2025-1007.
+7.	W. Han, R. Fang, and W. Layton, “Numerical analysis of a 1/2-equation model of turbulence,” Physica D: Nonlinear Phenomena, vol. 471, Art. 134428, 2025, https://doi.org/10.1016/j.physd.2024.134428.
+8.	R. Fang, “Penalty ensembles for Navier–Stokes equations with random initial conditions and forcing,” in Addressing Modern Challenges in the Mathematical, Statistical, and Computational Sciences, Springer Proc. Math. Stat., vol. 494, Springer, Cham, 2025, https://doi.org/10.1007/978-3-031-84869-8_38.
+9.	R. Fang, H. Schreiner, M. Sokoloff, C. Weisser, and M. Williams, “A hybrid deep learning approach to vertexing,” Journal of Physics: Conference Series, vol. 1525, Art. 012079, 2020, https://doi.org/10.1088/1742-6596/1525/1/012079.
+10.	(preprint) R. Fang and A. Pakzad, “Global recovery from local data: Interior nudging for 2D Navier–Stokes equations in a physical domain,” submitted, 2026, https://arxiv.org/abs/2601.11831.
 
+<img width="468" height="455" alt="image" src="https://github.com/user-attachments/assets/5edd817f-b49b-48d6-b249-de2b16cda9fd" />
 
 
 ### Conference Talks
