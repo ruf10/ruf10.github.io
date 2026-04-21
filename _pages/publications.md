@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ### Publications
-PUBLICATIONS
+
 1.	A. Çıbık, R. Fang, and W. Layton, “Modular data assimilation for flow prediction,” Numerical Methods for Partial Differential Equations, vol. 42, no. 1, e70066, 2026, https://doi.org/10.1002/num.70066.
 2.	R. Fang, “Numerical analysis of penalty-based ensemble methods,” Numerical Algorithms, vol. 101, pp. 509–542, 2026, https://doi.org/10.1007/s11075-025-02014-y.
 3.	A. Çıbık, R. Fang, W. Layton, and F. Siddiqua, “Data assimilation with model errors,” Computers & Mathematics with Applications, rev. submitted, 2025, https://arxiv.org/abs/2504.16291.
