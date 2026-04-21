@@ -9,10 +9,10 @@ redirect_from:
   - /about.html
 ---
 
-I’m Rui Fang, a Ph.D. candidate in Mathematics at the University of Pittsburgh, working under the guidance of Prof. William Layton ([webpage](https://www.mathematics.pitt.edu/people/ant-73)) in the numerical analysis group. I develop accurate and efficient numerical algorithms to extend the predictability horizon for the simulation of turbulent flows by addressing data uncertainty and the chaotic behavior of flows. Advancements in these methods are essential for studying climate patterns, energy production, and global warming.
+I’m **Rui Fang**, a Zassenhaus Assistant Professor in the Department of Mathematics at The Ohio State University (starting Aug. 2025). I completed my Ph.D. in Mathematics at the University of Pittsburgh under the guidance of Prof. William Layton ([webpage](https://www.mathematics.pitt.edu/people/ant-73)). 
 
+Turbulent flows are chaotic and hard to predict. My research develops smarter numerical methods — combining data assimilation, ensemble simulations, machine learning, and structure-preserving algorithms — to extend how far into the future we can trust flow simulations. This helps scientists study climate patterns, design energy systems, and model complex physical phenomena.
 
-My research interests include data assimilation, machine learning, deep learning, probabilistic graphical models, deep reinforcement learning, numerical analysis, scientific computing, computational fluid dynamics, finite element methods, ensemble simulations, and turbulence modeling.
 
 <img align="right" width="300" src="{{ site.url }}{{ site.baseurl }}/images/von_karman_vortex.jpeg"/>
 
