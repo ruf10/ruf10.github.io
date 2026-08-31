@@ -42,8 +42,8 @@ assimilation schemes for the Navier-Stokes equations,” manuscript in preparati
 
 ### Conference Talks
 1. Upcoming: Co-organizer and invited speaker, minisymposium at the Joint Mathematics Meetings (JMM), Chicago, January 12–15, 2027.
-2. The Ohio State University Welcome Seminar, Columbus, OH, October 22 or October 29, 2026,
-3. SIAM Great Lakes Section Annual Meeting, Purdue University, September 19-20.
+2. Upcoming: The Ohio State University Welcome Seminar, Columbus, OH, October 22 or October 29, 2026,
+3. Upcoming: SIAM Great Lakes Section Annual Meeting, Purdue University, September 19-20.
 4. Recent Advances in Numerical PDEs, University of Pittsburgh, May 15–17, 2026.
 5. Recent Advancements in Numerical Methods for Fluid Dynamics, Joint Mathematics Meetings (JMM), Washington, DC, 2026.
 6. The Ohio State University Computational Math Seminar, Columbus, OH, October 30, 2025,
