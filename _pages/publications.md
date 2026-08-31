@@ -31,21 +31,29 @@ author_profile: true
 
 12.  **R. Fang**, H. Schreiner, M. Sokoloff, C. Weisser, and M. Williams, “A hybrid deep learning approach to vertexing,” Journal of Physics: Conference Series, vol. 1525, Art. 012079, 2020, [https://doi.org/10.1088/1742-6596/1525/1/012079](https://doi.org/10.1088/1742-6596/1525/1/012079).
 
+### Manuscripts in Preparation
 
+1. **R. Fang**, Yulong Xing, “Optimization-based structure-preserving methods for the Korteweg–de Vries (KdV) equation,” manuscript in preparation; submission planned for September 2026.
+
+2. **R. Fang**, Ali Pakzad, “Global in time stability and accuracy of IMEX-FEM nonlinear  data
+assimilation schemes for the Navier-Stokes equations,” manuscript in preparation; submission planned for September 2026.
+
+3. **R. Fang**, Nan Jiang, “Modular nudged ensemble algorithms for fast data assimilation of MHD flows,” manuscript in preparation; submission planned for September 2026.
 
 ### Conference Talks
-1.
-2.
-3.
-4.	Recent Advancements in Numerical Methods for Fluid Dynamics, Joint Mathematics Meetings (JMM), Washington, DC, 2026.
-5.	The Ohio State University Computational Math Seminar, Columbus, OH, October 30, 2025, 
-6.	Frontiers in Applied Analysis, Carnegie Mellon University, Pittsburgh, PA, June 3-6, 2025.
-7.	Recent Advancements in the Numerical Analysis of Nonlinear Partial Differential Equations, Joint Mathematics Meetings (JMM), Seattle, 2025.
-8.	The 42nd Southeastern-Atlantic Regional Conference on Differential Equations (SEARCDE), West Virginia University, Morgantown, November 9-10, 2024.
-9.	Mathematical Models and Numerical Methods for Multi-Physics Systems, Pittsburgh, PA, May 2024.
-10.	Finite Element Circus, Brown University, Providence, RI, April 2024.
-11.	Association for Women in Mathematics, University of Pittsburgh, Pittsburgh, PA, September 2023.
-12.	The VI AMMCS (Applied Mathematics, Modeling and Computational Science) International Conference, Waterloo, ON, Aug 2023.
+1. Upcoming: Co-organizer and invited speaker, minisymposium at the Joint Mathematics Meetings (JMM), Chicago, January 12–15, 2027.
+2. The Ohio State University Welcome Seminar, Columbus, OH, October 22 or October 29, 2026,
+3. SIAM Great Lakes Section Annual Meeting, Purdue University, September 19-20.
+4. Recent Advances in Numerical PDEs, University of Pittsburgh, May 15–17, 2026.
+5. Recent Advancements in Numerical Methods for Fluid Dynamics, Joint Mathematics Meetings (JMM), Washington, DC, 2026.
+6. The Ohio State University Computational Math Seminar, Columbus, OH, October 30, 2025,
+7. Frontiers in Applied Analysis, Carnegie Mellon University, Pittsburgh, PA, June 3-6, 2025.
+8. Recent Advancements in the Numerical Analysis of Nonlinear Partial Differential Equations, Joint Mathematics Meetings (JMM), Seattle, 2025.
+9. The 42nd Southeastern-Atlantic Regional Conference on Differential Equations (SEARCDE), West Virginia University, Morgantown, November 9-10, 2024.
+10. Mathematical Models and Numerical Methods for Multi-Physics Systems, Pittsburgh, PA, May 2024.
+11. Finite Element Circus, Brown University, Providence, RI, April 2024.
+12. Association for Women in Mathematics, University of Pittsburgh, Pittsburgh, PA, September 2023.
+13. The VI AMMCS (Applied Mathematics, Modeling and Computational Science) International Conference, Waterloo, ON, Aug 2023.
 
 
 
