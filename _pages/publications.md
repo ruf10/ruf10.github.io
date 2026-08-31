@@ -9,9 +9,9 @@ author_profile: true
 
 1.  A. Çıbık and **R. Fang**, “Numerical analysis of data assimilation for slightly compressible flow,” submitted to Numerical Methods for Partial Differential Equations, 2026, [https://arxiv.org/pdf/2608.27647](https://arxiv.org/pdf/2608.27647).
 
-2. (preprint) A. Çıbık and **R. Fang**, “Data assimilation for slightly compressible flows,” submitted to SIAM Journal on Scientific Computing, 2026, [https://arxiv.org/pdf/2604.26896](https://arxiv.org/pdf/2604.26896).
+2. A. Çıbık and **R. Fang**, “Data assimilation for slightly compressible flows,” submitted to SIAM Journal on Scientific Computing, 2026, [https://arxiv.org/pdf/2604.26896](https://arxiv.org/pdf/2604.26896).
 
-3. **R. Fang** and A. Pakzad, “Global recovery from local data: Interior nudging for 2D Navier–Stokes equations in a physical domain,” Minor revsion submitted,Journal of Numerical Mathematics, 2026, [https://arxiv.org/abs/2601.11831](https://arxiv.org/abs/2601.11831).
+3. **R. Fang** and A. Pakzad, “Global recovery from local data: Interior nudging for 2D Navier–Stokes equations in a physical domain,” Minor revision submitted,Journal of Numerical Mathematics, 2026, [https://arxiv.org/abs/2601.11831](https://arxiv.org/abs/2601.11831).
 
 4.  A. Çıbık, **R. Fang**, W. Layton, and F. Siddiqua, “Data assimilation with model errors,” Computers & Mathematics with Applications, Volume 213, 2026, Pages 172-189, [https://doi.org/10.1016/j.camwa.2026.04.023](https://doi.org/10.1016/j.camwa.2026.04.023).
 
