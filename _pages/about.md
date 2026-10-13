@@ -17,13 +17,15 @@ I work in numerical analysis and scientific computing, focusing on data assimila
 
 ### Summary (Download my [CV](https://ruf10.github.io/RuiFang_CV_postdoc_Jan18_2025.pdf)) 
 - Improved fluid flow simulation predictability, accuracy, and efficiency by addressing data uncertainty and flows' chaotic behavior.
-- Authored 10 peer-reviewed publications including 3 solo, with one currently under review ([Publications](https://ruf10.github.io/publications/), [Research Gate](https://www.researchgate.net/profile/Rui-Fang-39)). One project on data assimilation will soon appear on arXiv.
-- Delivered 6 conference talks in the United States and internationally. 
-- Awards: Andrew W. Mellon Fellow 2023-2024.
+- Authored 12 peer-reviewed research papers: 9 published, 1 accepted for publication, and 2 under review. Of those, 3 solo-authored papers ([Publications](https://ruf10.github.io/publications/), [Research Gate](https://www.researchgate.net/profile/Rui-Fang-39)). 2 projects on data assimilation and 1 on structure-preserving using optimization will soon appear on arXiv.
+- Delivered 11 conference talks in the United States and internationally, upcoming: Joint Mathematics Meetings (JMM) in Chicago, January 12--15, 2027.
+- Selected for the 2025 Argonne Training Program on Extreme-Scale Computing (ATPESC), funded by Argonne National Laboratory—-a highly competitive two-week program on HPC, parallel computing, and large-scale scientific simulations.
+- 2025 Joint Mathematics Meetings Graduate Student Travel Grant from the American Mathematical Society ($1430).
+- Awards: Andrew W. Mellon Predoctoral Fellow, University of Pittsburgh, 2023–2024.
 - 2nd Place in 3-Minute Thesis competition, Math Department, University of Pittsburgh.
+- Arts and Sciences Fellowships, University of Pittsburgh, Spring 2020.
 - President of AWM (Association for Women in Mathematics), Officer of Math GSO (Graduate Student Organization).
 - Referee for the Pittsburgh Interdisciplinary Mathematics Review (PIMR), a peer-reviewed open-access journal.
-- 2025 Joint Mathematics Meetings Graduate Student Travel Grant from the American Mathematical Society ($1430).
 
 
 <div style="display: flex;">
