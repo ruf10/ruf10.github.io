@@ -23,25 +23,6 @@ I work in numerical analysis and scientific computing, focusing on data assimila
 - Delivered 11 conference talks in the United States and internationally.
 - Upcoming: Joint Mathematics Meetings (JMM) in Chicago, January 12--15, 2027.
 
-
-## Fellowships, Awards, and Training
-- Selected for the 2025 Argonne Training Program on Extreme-Scale Computing (ATPESC), funded by Argonne National Laboratory.
-- 2025 Joint Mathematics Meetings Graduate Student Travel Grant from the American Mathematical Society ($1430).
-- Awards: Andrew W. Mellon Predoctoral Fellow, University of Pittsburgh, 2023–2024.
-- 2nd Place in 3-Minute Thesis competition, Math Department, University of Pittsburgh.
-- Arts and Sciences Fellowships, University of Pittsburgh, Spring 2020.
-
-## Leadership and Service
-- Association for Women in Mathematics, University of Pittsburgh, President, 2024-2025, Vice President, 2023–2024; Treasurer, 2022–2023
-- Officer of Math Graduate Student Organization, University of Pittsburgh.
-- Referee for the Pittsburgh Interdisciplinary Mathematics Review (Undergraduate student-run journal)
-
-## Refereeing Service
-- Journal of Numerical Mathematics
-- Numerical Algorithms
-- International Journal of Numerical Analysis and Modeling
-- Physics of Fluids
-
 <h2>Research Interests: Numerical Analysis and Scientific Computing</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem;">
@@ -74,6 +55,26 @@ I work in numerical analysis and scientific computing, focusing on data assimila
   </div>
 
 </div>
+
+## Fellowships, Awards, and Training
+- Selected for the 2025 Argonne Training Program on Extreme-Scale Computing (ATPESC), funded by Argonne National Laboratory.
+- 2025 Joint Mathematics Meetings Graduate Student Travel Grant from the American Mathematical Society ($1430).
+- Awards: Andrew W. Mellon Predoctoral Fellow, University of Pittsburgh, 2023–2024.
+- 2nd Place in 3-Minute Thesis competition, Math Department, University of Pittsburgh.
+- Arts and Sciences Fellowships, University of Pittsburgh, Spring 2020.
+
+## Leadership and Service
+- Association for Women in Mathematics, University of Pittsburgh, President, 2024-2025, Vice President, 2023–2024; Treasurer, 2022–2023
+- Officer of Math Graduate Student Organization, University of Pittsburgh.
+- Referee for the Pittsburgh Interdisciplinary Mathematics Review (Undergraduate student-run journal)
+
+## Refereeing Service
+- Journal of Numerical Mathematics
+- Numerical Algorithms
+- International Journal of Numerical Analysis and Modeling
+- Physics of Fluids
+
+
 
 
 ## Education
