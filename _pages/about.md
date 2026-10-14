@@ -77,11 +77,11 @@ I work in numerical analysis and scientific computing, focusing on data assimila
 
 
 ## Education
-<p><strong>Ph.D. in Mathematics, Aug. 2019 -Aug. 2025</strong><br>
+<p><strong>Ph.D. in Mathematics, August 2019 -August 2025</strong><br>
 University of Pittsburgh, PA, United States<br>
 Advisor: William J. Layton (wjl@pitt.edu)</p>
 
-<p><strong>Dual B.S. in Mathematics, 2015-2019</strong><br>
+<p><strong>Dual B.S. in Mathematics, September 2015 - August 2019</strong><br>
 University of Cincinnati, OH, United States<br>
 Capital Normal University, Beijing, China</p>
 
