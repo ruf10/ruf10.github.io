@@ -30,6 +30,7 @@ Student feedback is an important source of reflection in my teaching and helps m
 | Students felt welcomed in the course | 4.49/5 |
 | Created an environment that valued diverse perspectives and experiences | 4.44/5 |
 
+
 ### What My Students Say
 
 Selected student comments include:
