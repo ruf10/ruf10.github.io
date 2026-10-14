@@ -6,20 +6,25 @@ author_profile: true
 ---
 {% include base_path %}
 
-In addition to my research, I serve as president of the Association of Women in Mathematics (AWM) Pittsburgh Chapter, student officer for the Math Graduate Student Organization (GSO), referee for the Pittsburgh Interdisciplinary Mathematics Review (PIMR), an undergraduate peer-reviewed journal, and graduate student organizer for University of Pittsburgh High School Girls' Math Summer Camp. I actively promote diversity in mathematics, mentor the next generation, and foster a supportive academic community. I was honored as an Andrew Mellon Fellow for 2023-2024.
+In addition to my research, I served as president of the Association of Women in Mathematics (AWM) Pittsburgh Chapter, student officer for the Math Graduate Student Organization (GSO), referee for the Pittsburgh Interdisciplinary Mathematics Review (PIMR), an undergraduate peer-reviewed journal, and graduate student organizer for University of Pittsburgh High School Girls' Math Summer Camp. I actively promote diversity in mathematics, mentor the next generation, and foster a supportive academic community. I was honored as an Andrew Mellon Fellow for 2023-2024.
 
 ## SERVICES
-# Academics Services
+### Academics Services
+
 •	Association for Women in Mathematics (AWM), Pittsburgh Chapter, University of Pittsburgh
 President 2024 – 2025, Vice-President 2023 – 2024, Treasurer 2022 – 2023
-https://www.mathematics.pitt.edu/content/pitt-awm-student-seminar-series.
+https://www.mathematics.pitt.edu/content/pitt-awm-student-seminar-series. <br />
+
 •	Mathematics Graduate Student Organization (Math GSO), University of Pittsburgh
-Student Officer 2020 – 2025
+Student Officer 2020 – 2025 
 
-# Refereeing Services
-•	Reviewer for Journal of Numerical Mathematics, Numerical Algorithms, Pittsburgh Interdisciplinary Mathematics Review (managed by undergrad student）
-For more info please check [website](https://pimr.pitt.edu/pimr).
-
+### Refereeing Services
+•	Refereeing Service <br />
+•	Journal of Numerical Mathematics <br />
+•	Numerical Algorithms <br />
+•	International Journal of Numerical Analysis and Modeling <br />
+•	Physics of Fluids <br />
+•	Pittsburgh Interdisciplinary Mathematics Review (Undergraduate student-run journal) <br />
 
 
 ## President of the AWM (Association of Women in Mathematics) Pittsburgh Chapter
