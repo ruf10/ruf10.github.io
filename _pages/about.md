@@ -84,7 +84,7 @@ Advisor: William J. Layton (wjl@pitt.edu)</p>
 <p><strong>Dual B.S. in Mathematics, 2015-2019</strong><br>
 University of Cincinnati, OH, United States<br>
 Capital Normal University, Beijing, China</p>
-</div>
+
 </div>
 <div style="text-align: left;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/rui-single.jpg" style="width: 200px; height: 150px; object-fit: cover; margin: 10px;" />
