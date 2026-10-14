@@ -7,20 +7,16 @@ author_profile: true
 
 My teaching experience includes independent instruction at The Ohio State University, where I have served as an instructor of record for large, uncoordinated undergraduate courses with substantial responsibility for organizing and delivering instruction, as well as earlier instructional roles at the University of Pittsburgh. My teaching roles and courses include:
 
-
 ## The Ohio State University — Instructor of Record
 
 - **Math 2153, Calculus III (Multivariable Calculus):** Fall 2025, approximately 180 students.
 - **Math 2173, Engineering Mathematics:** Spring 2026, two sections with approximately 180 students in total, including one section of approximately 120 students; Fall 2026, one section with approximately 80 students.
-
 
 ## University of Pittsburgh
 
 - **Teaching Assistant:** Calculus I, Calculus II, Calculus III, Business Calculus, and Matrices and Linear Operators (graduate level).
 - **Grader:** Ordinary Differential Equations.
 - **Math Assistance Center Tutor:** Provided individualized support to undergraduate students across a range of mathematics courses.
-
-
 
 
 ## Student Feedback and Teaching Effectiveness
