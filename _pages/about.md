@@ -11,11 +11,11 @@ redirect_from:
 
 I’m **Rui Fang**, a Zassenhaus Assistant Professor in the Department of Mathematics at The Ohio State University (since Aug. 2025), where I work with Prof. Yulong Xing ([webpage](https://people.math.osu.edu/xing.205)). I completed my Ph.D. in Mathematics at the University of Pittsburgh under the guidance of Prof. William Layton ([webpage](https://www.mathematics.pitt.edu/people/ant-73)). 
 
+[Download my CV](/files/RuiFang_CV_Oct8_2026.pdf)
+
 I work in numerical analysis and scientific computing, focusing on data assimilation, fluid dynamics, turbulence, scientific machine learning, optimization, the Navier–Stokes equations, and other nonlinear, coupled partial differential equations. Grounded in rigorous mathematical analysis and motivated by challenges in computational science, I develop and analyze accurate and efficient numerical methods for these problems, including data-informed, finite element, discontinuous Galerkin, adaptive, and structure-preserving techniques. I emphasize long-time accuracy, imperfect models and data, and computational efficiency to enable large-scale fluid simulations.
 
 <img align="right" width="300" src="{{ site.url }}{{ site.baseurl }}/images/von_karman_vortex.jpeg"/>
-
-### Summary (Download my [CV](https://ruf10.github.io/RuiFang_CV_postdoc_Jan18_2025.pdf)) 
 
 ## Research Highlights
 - Authored 12 peer-reviewed research papers: 9 published, 1 accepted for publication, and 2 under review. Of those, 3 solo-authored papers ([Publications](https://ruf10.github.io/publications/), [Research Gate](https://www.researchgate.net/profile/Rui-Fang-39)).
@@ -91,6 +91,7 @@ Capital Normal University, Beijing, China</p>
     <img src="{{ site.url }}{{ site.baseurl }}/images/rui-ammcs.png" style="width: 200px; height: 150px; object-fit: cover; margin: 10px;" />
     <img src="{{ site.url }}{{ site.baseurl }}/images/finite_element_circus.jpg" style="width: 200px; height: 150px; object-fit: cover; margin: 10px;" />
 </div>
+
 
 
 
