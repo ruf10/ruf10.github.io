@@ -7,11 +7,15 @@ author_profile: true
 {% include base_path %}
 ### Publications
 
+## Submitted and Under Review
+
 1.  A. Çıbık and **R. Fang**, “Numerical analysis of data assimilation for slightly compressible flow,” submitted to Numerical Methods for Partial Differential Equations, 2026, [https://arxiv.org/pdf/2608.27647](https://arxiv.org/pdf/2608.27647).
 
 2. A. Çıbık and **R. Fang**, “Data assimilation for slightly compressible flows,” submitted to SIAM Journal on Scientific Computing, 2026, [https://arxiv.org/pdf/2604.26896](https://arxiv.org/pdf/2604.26896).
 
-3. **R. Fang** and A. Pakzad, “Global recovery from local data: Interior nudging for 2D Navier–Stokes equations in a physical domain,” Minor revision submitted,Journal of Numerical Mathematics, 2026, [https://arxiv.org/abs/2601.11831](https://arxiv.org/abs/2601.11831).
+## Published and Accepted Articles
+
+3. **R. Fang** and A. Pakzad, “Global recovery from local data: Interior nudging for 2D Navier–Stokes equations in a physical domain,”Journal of Numerical Mathematics, 2026, accepted for publication [https://arxiv.org/abs/2601.11831](https://arxiv.org/abs/2601.11831).
 
 4.  A. Çıbık, **R. Fang**, W. Layton, and F. Siddiqua, “Data assimilation with model errors,” Computers & Mathematics with Applications, Volume 213, 2026, Pages 172-189, [https://doi.org/10.1016/j.camwa.2026.04.023](https://doi.org/10.1016/j.camwa.2026.04.023).
 
@@ -31,14 +35,14 @@ author_profile: true
 
 12.  **R. Fang**, H. Schreiner, M. Sokoloff, C. Weisser, and M. Williams, “A hybrid deep learning approach to vertexing,” Journal of Physics: Conference Series, vol. 1525, Art. 012079, 2020, [https://doi.org/10.1088/1742-6596/1525/1/012079](https://doi.org/10.1088/1742-6596/1525/1/012079).
 
-### Manuscripts in Preparation
+## Manuscripts in Preparation
 
-1. **R. Fang**, Yulong Xing, “Optimization-based structure-preserving methods for the Korteweg–de Vries (KdV) equation,” manuscript in preparation; submission planned for September 2026.
+1. **R. Fang**, Yulong Xing, “Optimization-based structure-preserving methods for the Korteweg–de Vries (KdV) equation,” manuscript in preparation; submission planned for November 2026.
 
 2. **R. Fang**, Ali Pakzad, “Global in time stability and accuracy of IMEX-FEM nonlinear  data
-assimilation schemes for the Navier-Stokes equations,” manuscript in preparation; submission planned for September 2026.
+assimilation schemes for the Navier-Stokes equations,” manuscript in preparation; submission planned for November 2026.
 
-3. **R. Fang**, Nan Jiang, “Modular nudged ensemble algorithms for fast data assimilation of MHD flows,” manuscript in preparation; submission planned for September 2026.
+3. **R. Fang**, Nan Jiang, “Modular nudged ensemble algorithms for fast data assimilation of MHD flows,” manuscript in preparation; submission planned for November 2026.
 
 ### Conference Talks
 1. Upcoming: Co-organizer and invited speaker, minisymposium at the Joint Mathematics Meetings (JMM), Chicago, January 12–15, 2027.
