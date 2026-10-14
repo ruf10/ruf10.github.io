@@ -7,11 +7,11 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Technical Skills"
-    url: /courseworkandskills/
-    
   - title: "Service and Leadership"
     url: /service/
+
+  - title: "Technical Skills"
+    url: /courseworkandskills/
     
   - title: "CV"
     url: /_pages/RuiFang_CV_Oct8_2026.pdf
