@@ -30,7 +30,7 @@ Student feedback is an important source of reflection in my teaching and helps m
 | Students felt welcomed in the course | 4.49/5 |
 | Created an environment that valued diverse perspectives and experiences | 4.44/5 |
 
-**What My Students Say:** <br />
+### What My Students Say:
 Selected student comments include:
 
 - **Enthusiasm and genuine engagement:** “She was super kind and helpful, and very engaging in her teaching practices. She is very well versed with the content and very helpful. You can tell she cares a lot about teaching”; “Dr. Fang was always passionate about her work and always brought a positive attitude to class.”
