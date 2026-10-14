@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
-### Publications
 
 ## Submitted and Under Review
 
@@ -44,7 +43,7 @@ assimilation schemes for the Navier-Stokes equations,” manuscript in preparati
 
 3. **R. Fang**, Nan Jiang, “Modular nudged ensemble algorithms for fast data assimilation of MHD flows,” manuscript in preparation; submission planned for November 2026.
 
-### Conference Talks
+## Conference Talks
 1. Upcoming: Co-organizer and invited speaker, minisymposium at the Joint Mathematics Meetings (JMM), Chicago, January 12–15, 2027.
 2. Upcoming: The Ohio State University Welcome Seminar, Columbus, OH, October 22 or October 29, 2026,
 3. Upcoming: SIAM Great Lakes Section Annual Meeting, Purdue University, September 19-20.
