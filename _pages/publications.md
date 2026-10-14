@@ -26,9 +26,9 @@ author_profile: true
 
 8. A. Çıbık, **R. Fang**, W. Layton, and F. Siddiqua, “Adaptive parameter selection in nudging-based data assimilation,” *Computer Methods in Applied Mechanics and Engineering*, vol. 433, Art. 117526, 2025, [DOI](https://doi.org/10.1016/j.cma.2024.117526).
 
-9. **R. Fang**, W. Han, and W. Layton, “On a 1/2-equation model of turbulence,” *International Journal of Numerical Analysis and Modeling*, vol. 22, no. 2, pp. 139–156, 2025, [DOI](https://doi.org/10.4208/ijnam2025-1007).
+9. **R. Fang**, W.-W. Han, and W. Layton, “On a 1/2-equation model of turbulence,” *International Journal of Numerical Analysis and Modeling*, vol. 22, no. 2, pp. 139–156, 2025, [DOI](https://doi.org/10.4208/ijnam2025-1007).
 
-10. W. Han, **R. Fang**, and W. Layton, “Numerical analysis of a 1/2-equation model of turbulence,” *Physica D: Nonlinear Phenomena*, vol. 471, Art. 134428, 2025, [DOI](https://doi.org/10.1016/j.physd.2024.134428).
+10. W.-W. Han, **R. Fang**, and W. Layton, “Numerical analysis of a 1/2-equation model of turbulence,” *Physica D: Nonlinear Phenomena*, vol. 471, Art. 134428, 2025, [DOI](https://doi.org/10.1016/j.physd.2024.134428).
 
 11. **R. Fang**, “Penalty ensembles for Navier–Stokes equations with random initial conditions and forcing,” in *Addressing Modern Challenges in the Mathematical, Statistical, and Computational Sciences*, Springer Proceedings in Mathematics & Statistics, vol. 494, Springer, Cham, 2025, [DOI](https://doi.org/10.1007/978-3-031-84869-8_38).
 
