@@ -33,6 +33,7 @@ author_profile: true
 11. **R. Fang**, “Penalty ensembles for Navier–Stokes equations with random initial conditions and forcing,” in *Addressing Modern Challenges in the Mathematical, Statistical, and Computational Sciences*, Springer Proceedings in Mathematics & Statistics, vol. 494, Springer, Cham, 2025, [DOI](https://doi.org/10.1007/978-3-031-84869-8_38).
 
 12. **R. Fang**, H. Schreiner, M. Sokoloff, C. Weisser, and M. Williams, “A hybrid deep learning approach to vertexing,” *Journal of Physics: Conference Series*, vol. 1525, Art. 012079, 2020, [DOI](https://doi.org/10.1088/1742-6596/1525/1/012079).
+{: start="3"}
 
 ## Manuscripts in Preparation
 
