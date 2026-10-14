@@ -16,26 +16,63 @@ I work in numerical analysis and scientific computing, focusing on data assimila
 <img align="right" width="300" src="{{ site.url }}{{ site.baseurl }}/images/von_karman_vortex.jpeg"/>
 
 ### Summary (Download my [CV](https://ruf10.github.io/RuiFang_CV_postdoc_Jan18_2025.pdf)) 
-- Improved fluid flow simulation predictability, accuracy, and efficiency by addressing data uncertainty and flows' chaotic behavior.
-- Authored 12 peer-reviewed research papers: 9 published, 1 accepted for publication, and 2 under review. Of those, 3 solo-authored papers ([Publications](https://ruf10.github.io/publications/), [Research Gate](https://www.researchgate.net/profile/Rui-Fang-39)). 2 projects on data assimilation and 1 on structure-preserving using optimization will soon appear on arXiv.
-- Delivered 11 conference talks in the United States and internationally, upcoming: Joint Mathematics Meetings (JMM) in Chicago, January 12--15, 2027.
-- Selected for the 2025 Argonne Training Program on Extreme-Scale Computing (ATPESC), funded by Argonne National Laboratory—-a highly competitive two-week program on HPC, parallel computing, and large-scale scientific simulations.
+
+## Research Highlights
+- Authored 12 peer-reviewed research papers: 9 published, 1 accepted for publication, and 2 under review. Of those, 3 solo-authored papers ([Publications](https://ruf10.github.io/publications/), [Research Gate](https://www.researchgate.net/profile/Rui-Fang-39)).
+- 2 projects on data assimilation and 1 on structure-preserving using optimization will soon appear on arXiv.
+- Delivered 11 conference talks in the United States and internationally.
+- Upcoming: Joint Mathematics Meetings (JMM) in Chicago, January 12--15, 2027.
+
+
+## Fellowships, Awards, and Training
+-Selected for the 2025 Argonne Training Program on Extreme-Scale Computing (ATPESC), funded by Argonne National Laboratory.
 - 2025 Joint Mathematics Meetings Graduate Student Travel Grant from the American Mathematical Society ($1430).
 - Awards: Andrew W. Mellon Predoctoral Fellow, University of Pittsburgh, 2023–2024.
 - 2nd Place in 3-Minute Thesis competition, Math Department, University of Pittsburgh.
 - Arts and Sciences Fellowships, University of Pittsburgh, Spring 2020.
-- President of AWM (Association for Women in Mathematics), Officer of Math GSO (Graduate Student Organization).
-- Referee for the Pittsburgh Interdisciplinary Mathematics Review (PIMR), a peer-reviewed open-access journal.
 
+## Leadership and Service
+- Association for Women in Mathematics, University of Pittsburgh, President, 2024-2025, Vice President, 2023–2024; Treasurer, 2022–2023
+- Officer of Math Graduate Student Organization, University of Pittsburgh.
+- Referee for the Pittsburgh Interdisciplinary Mathematics Review (Undergraduate student-run journal)
 
-<div style="display: flex;">
-<div style="flex: 1; padding: 2px;">
-<h3>Research Interests</h3>
-<ul>
-  <li>Numerical Analysis and Scientific Computing, Computational Fluid Dynamics, Finite Element Methods. </li>
-  <li> Data Assimilation, Ensemble Simulation, Monte Carlo, Penalty Methods, Turbulence Modeling. </li>
-  <li>Machine Learning, Deep Learning, Probabilistic Graphical Models, Deep Reinforcement Learning. </li>
-</ul>
+## Refereeing Service
+- Journal of Numerical Mathematics
+- Numerical Algorithms
+- International Journal of Numerical Analysis and Modeling
+- Physics of Fluids
+
+<h2>Research Interests: Numerical Analysis and Scientific Computing</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem;">
+
+  <div style="flex: 1 1 250px;">
+    <h3>Data Assimilation and Uncertainty Quantification</h3>
+    <ul>
+      <li>Data assimilation and ensemble simulation</li>
+      <li>Monte Carlo methods and model uncertainty</li>
+      <li>Computational fluid dynamics and turbulence modeling</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1 1 250px;">
+    <h3>Numerical Methods for PDEs</h3>
+    <ul>
+      <li>Finite element and discontinuous Galerkin methods</li>
+      <li>Adaptive and penalty-based algorithms</li>
+      <li>Structure-preserving and optimization-based methods</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1 1 250px;">
+    <h3>Scientific Machine Learning</h3>
+    <ul>
+      <li>Data-driven numerical methods</li>
+      <li>Learning-assisted scientific computing</li>
+      <li>Deep learning for scientific applications</li>
+    </ul>
+  </div>
+
 </div>
 
 <div style="flex: 1; padding: 2px;">
