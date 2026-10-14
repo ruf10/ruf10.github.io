@@ -77,7 +77,7 @@ I work in numerical analysis and scientific computing, focusing on data assimila
 
 <div style="flex: 1; padding: 2px;">
 <h3>Education</h3>
-<p><strong>Ph.D. in Mathematics, Aug. 2019 -Aug. 2026</strong><br>
+<p><strong>Ph.D. in Mathematics, Aug. 2019 -Aug. 2025</strong><br>
 University of Pittsburgh, PA, United States<br>
 Advisor: William J. Layton (wjl@pitt.edu)</p>
 
