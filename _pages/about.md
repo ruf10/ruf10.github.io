@@ -18,7 +18,7 @@ I work in numerical analysis and scientific computing, focusing on data assimila
 <img align="right" width="300" src="{{ site.url }}{{ site.baseurl }}/images/von_karman_vortex.jpeg"/>
 
 ## Research Highlights
-- Authored 12 peer-reviewed research papers: 9 published, 1 accepted for publication, and 2 under review. Of those, 3 solo-authored papers ([Publications](https://ruf10.github.io/publications/), [Research Gate](https://www.researchgate.net/profile/Rui-Fang-39)).
+- Authored 12 peer-reviewed research papers: 10 published, and 2 under review. Of those, 3 solo-authored papers ([Publications](https://ruf10.github.io/publications/), [Research Gate](https://www.researchgate.net/profile/Rui-Fang-39)).
 - 2 projects on data assimilation and 1 on structure-preserving using optimization will soon appear on arXiv.
 - Delivered 11 conference talks in the United States and internationally.
 - Upcoming: Joint Mathematics Meetings (JMM) in Chicago, January 12--15, 2027.
