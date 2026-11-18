@@ -15,6 +15,7 @@ author_profile: true
 3. A. Çıbık and **R. Fang**, “Data assimilation for slightly compressible flows,” submitted to *SIAM Journal on Scientific Computing*, 2026, [arXiv:2604.26896](https://arxiv.org/pdf/2604.26896).
 
 ## Published and Accepted Articles
+
 4.  **R. Fang** and A. Pakzad, “Global recovery from local data: interior nudging for 2D Navier–Stokes equations in a physical domain,” Journal of Numerical Mathematics, 2026,[DOI](https://doi.org/10.1515/jnma-2026-0020).
 
 5. A. Çıbık, **R. Fang**, W. Layton, and F. Siddiqua, “Data assimilation with model errors,” *Computers & Mathematics with Applications*, vol. 213, pp. 172–189, 2026, [DOI](https://doi.org/10.1016/j.camwa.2026.04.023).
