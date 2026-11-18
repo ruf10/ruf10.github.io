@@ -57,6 +57,7 @@ I work in numerical analysis and scientific computing, focusing on data assimila
 </div>
 
 ## Fellowships, Awards, and Training
+- Awarded an Association for Women in Mathematics (AWM) Travel Grant of up to $2,500 to attend the Joint Mathematics Meetings in Chicago, Illinois, 2027.
 - Selected for the 2025 Argonne Training Program on Extreme-Scale Computing (ATPESC), funded by Argonne National Laboratory.
 - 2025 Joint Mathematics Meetings Graduate Student Travel Grant from the American Mathematical Society ($1430).
 - Awards: Andrew W. Mellon Predoctoral Fellow, University of Pittsburgh, 2023–2024.
