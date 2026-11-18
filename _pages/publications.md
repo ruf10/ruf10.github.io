@@ -15,24 +15,23 @@ author_profile: true
 3. A. Çıbık and **R. Fang**, “Data assimilation for slightly compressible flows,” submitted to *SIAM Journal on Scientific Computing*, 2026, [arXiv:2604.26896](https://arxiv.org/pdf/2604.26896).
 
 ## Published and Accepted Articles
-
-4. **R. Fang** and A. Pakzad, “Global recovery from local data: interior nudging for 2D Navier–Stokes equations in a physical domain,” Journal of Numerical Mathematics, 2026,[DOI](https://doi.org/10.1515/jnma-2026-0020).
+4.  **R. Fang** and A. Pakzad, “Global recovery from local data: interior nudging for 2D Navier–Stokes equations in a physical domain,” Journal of Numerical Mathematics, 2026,[DOI](https://doi.org/10.1515/jnma-2026-0020).
 
 5. A. Çıbık, **R. Fang**, W. Layton, and F. Siddiqua, “Data assimilation with model errors,” *Computers & Mathematics with Applications*, vol. 213, pp. 172–189, 2026, [DOI](https://doi.org/10.1016/j.camwa.2026.04.023).
 
 6. A. Çıbık, **R. Fang**, and W. Layton, “Modular data assimilation for flow prediction,” *Numerical Methods for Partial Differential Equations*, vol. 42, no. 1, Art. e70066, 2026, [DOI](https://doi.org/10.1002/num.70066).
 
-7. **R. Fang**, “Numerical analysis of penalty-based ensemble methods,” *Numerical Algorithms*, vol. 101, pp. 509–542, 2026, [DOI](https://doi.org/10.1007/s11075-025-02014-y).
+7.  **R. Fang**, “Numerical analysis of penalty-based ensemble methods,” *Numerical Algorithms*, vol. 101, pp. 509–542, 2026, [DOI](https://doi.org/10.1007/s11075-025-02014-y).
 
-8. **R. Fang**, “Numerical analysis of locally adaptive penalty methods for the Navier–Stokes equations,” *SeMA Journal*, online first, 2025, [DOI](https://doi.org/10.1007/s40324-025-00394-8).
+8.  **R. Fang**, “Numerical analysis of locally adaptive penalty methods for the Navier–Stokes equations,” *SeMA Journal*, online first, 2025, [DOI](https://doi.org/10.1007/s40324-025-00394-8).
 
-9. A. Çıbık, **R. Fang**, W. Layton, and F. Siddiqua, “Adaptive parameter selection in nudging-based data assimilation,” *Computer Methods in Applied Mechanics and Engineering*, vol. 433, Art. 117526, 2025, [DOI](https://doi.org/10.1016/j.cma.2024.117526).
+9.  A. Çıbık, **R. Fang**, W. Layton, and F. Siddiqua, “Adaptive parameter selection in nudging-based data assimilation,” *Computer Methods in Applied Mechanics and Engineering*, vol. 433, Art. 117526, 2025, [DOI](https://doi.org/10.1016/j.cma.2024.117526).
 
-10. **R. Fang**, W.-W. Han, and W. Layton, “On a 1/2-equation model of turbulence,” *International Journal of Numerical Analysis and Modeling*, vol. 22, no. 2, pp. 139–156, 2025, [DOI](https://doi.org/10.4208/ijnam2025-1007).
+10.  **R. Fang**, W.-W. Han, and W. Layton, “On a 1/2-equation model of turbulence,” *International Journal of Numerical Analysis and Modeling*, vol. 22, no. 2, pp. 139–156, 2025, [DOI](https://doi.org/10.4208/ijnam2025-1007).
 
-11. W.-W. Han, **R. Fang**, and W. Layton, “Numerical analysis of a 1/2-equation model of turbulence,” *Physica D: Nonlinear Phenomena*, vol. 471, Art. 134428, 2025, [DOI](https://doi.org/10.1016/j.physd.2024.134428).
+11.  W.-W. Han, **R. Fang**, and W. Layton, “Numerical analysis of a 1/2-equation model of turbulence,” *Physica D: Nonlinear Phenomena*, vol. 471, Art. 134428, 2025, [DOI](https://doi.org/10.1016/j.physd.2024.134428).
 
-12. **R. Fang**, “Penalty ensembles for Navier–Stokes equations with random initial conditions and forcing,” in *Addressing Modern Challenges in the Mathematical, Statistical, and Computational Sciences*, Springer Proceedings in Mathematics & Statistics, vol. 494, Springer, Cham, 2025, [DOI](https://doi.org/10.1007/978-3-031-84869-8_38).
+12.   **R. Fang**, “Penalty ensembles for Navier–Stokes equations with random initial conditions and forcing,” in *Addressing Modern Challenges in the Mathematical, Statistical, and Computational Sciences*, Springer Proceedings in Mathematics & Statistics, vol. 494, Springer, Cham, 2025, [DOI](https://doi.org/10.1007/978-3-031-84869-8_38).
 
 13. **R. Fang**, H. Schreiner, M. Sokoloff, C. Weisser, and M. Williams, “A hybrid deep learning approach to vertexing,” *Journal of Physics: Conference Series*, vol. 1525, Art. 012079, 2020, [DOI](https://doi.org/10.1088/1742-6596/1525/1/012079).
 {: start="3"}
