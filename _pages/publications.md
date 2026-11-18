@@ -8,7 +8,7 @@ author_profile: true
 
 ## Submitted and Under Review
 
-1. E. Carlson, **R. Fang**, A. Pakzad, “Finite element nonlinear nudging for the Navier-Stokes equations,” 2026,[arXiv:2611.23036](https://arxiv.org/pdf/2611.23036).
+1. E. Carlson, **R. Fang**, A. Pakzad, “Finite element nonlinear nudging for the Navier-Stokes equations,” 2026, [arXiv:2611.23036](https://arxiv.org/pdf/2611.23036).
   
 2. A. Çıbık and **R. Fang**, “Numerical analysis of data assimilation for slightly compressible flow,” submitted to *Numerical Methods for Partial Differential Equations*, 2026, [arXiv:2608.27647](https://arxiv.org/pdf/2608.27647).
 
